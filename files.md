@@ -43,3 +43,12 @@ Windows 默认隐藏已知文件类型的后缀名（扩展名）。显示方式
 
 ![image7](https://40.media.tumblr.com/84c8af7c0763fee61ac32d9c267c26dc/tumblr_nvy3l2qb1j1uft3xho7_400.png)
 ![image8](https://41.media.tumblr.com/7fb47117b010840b87ba9d7f658eb55e/tumblr_nvy3l2qb1j1uft3xho8_400.png)
+
+--- 
+**参考资料：**
+
+**[文件格式列表](https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E5%88%97%E8%A1%A8)**
+
+
+
+*总结完毕，持续更新......*
