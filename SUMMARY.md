@@ -12,4 +12,5 @@
    * [桌面个性化设置](desk.md)
    * [正确安装软件](installer.md)
    * [重要文件备份](backup.md)
+* Windows 常用软件
 
