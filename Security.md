@@ -109,6 +109,94 @@
 ---
 ### 4. 拉黑 CNNIC 证书
 
+#### 4.1 CNNIC 是什么东西？
 
+CNNIC 全称是 China Internet Network Information Center,中文叫「中国互联网信息中心」。是中国对互联网进行管理的一个机构。
 
+但是，对于电脑来说，CNNIC 是一个伪装的很好的坏人，可以伪造网络通行证证书骗取信任，与其他东西狼狈为奸。
+
+更多关于 CNNIC 的危害，请看
+
+[CNNIC到底干了啥事？](https://program-think.blogspot.com/2010/02/remove-cnnic-cert.html#head-1)
+
+[这事儿对咱有啥影响？](https://program-think.blogspot.com/2010/02/remove-cnnic-cert.html#head-2)
+
+## 
+
+#### 4.2 从系统中拉黑可疑证书
+
+工具：[RevokeChinaCerts](https://github.com/chengr28/RevokeChinaCerts)
+
+1. 在线证书吊销——针对部分网站
+  
+ （1）下载工具并打开，双击```RevokeChinaCerts_Online.bat``` 运行 ，输入 **2**
+ 
+ ![image9](https://41.media.tumblr.com/e42d596db1ca63f1d0b569311b46e272/tumblr_nw0byvzrOk1uft3xho1_1280.png)
+
+  （2）等待执行完毕，按任意键。
+  
+ ![image10](https://41.media.tumblr.com/fe4326abe3c891a849881d276228b89e/tumblr_nw0byvzrOk1uft3xho2_540.png)
+**说明：**运行时如果遇到 ```Error: Can not find a certificate matching the hash value``` 或 ```Failed to save to the destination store```  等不需要在意，只要添加吊销证书时出现 **CertMgr Succeeded** 即可。
+ 
+2. 屏蔽某些软件运行、部分组织和企业的证书
+
+ （1）在同一个文件中，双击运行```RevokeChinaCerts_CodeSigning.bat```或 ```RevokeChinaCerts_Organization.bat```。输入** y **并确定。
+ 
+ ![image11](https://40.media.tumblr.com/4cdb388b0bd678c792701d344fba6669/tumblr_nw0byvzrOk1uft3xho3_1280.png)
+ 
+ （2）继续输入 **1 **，看到类似下图，说明执行成功。
+ 
+  ![image12](https://40.media.tumblr.com/561445c9d5b37083487c74d2158a3026/tumblr_nw0byvzrOk1uft3xho4_1280.png)
+
+## 
+
+#### 4.3 清理 IE、Chrome 不信任证书
+
+1. 运行 Windows 的证书管理器（```Winkey+R``` ,执行 **certmgr.msc**）。
+
+2. 选中「受信任的根证书颁发机构」=>「证书」。
+
+3. 查看右边的证书列表。如果里面已经有 CNNIC 的证书，直接跳到第7步。
+
+4. 先翻墙到下面的链接下载现成的CNNIC证书（要解压缩出来）。
+
+5. 鼠标在「受信任的根证书颁发机构」=>「证书」上点右键。在右键菜单中点「所有任务」=>「导入」。
+
+6. 出现一个导入向导，根据先导一步步的提示，把上述 CNNIC 证书导入到证书列表中。
+
+7. 选中 CNNIC 证书，点右键。在右键菜单中点「属性」。
+
+8. 在跳出的属性对话框中，选中「**停用这个证书的所有目的**」，然后确定。
+
+9. 最后，为了保险起见，再把这三个证书，导入到「不信任的证书」中（方法和上述类似）。
+
+## 
+
+#### 4.4 清理 Firefox 可疑证书
+
+不论是在哪个操作系统下，只要你用的是 Firefox 浏览器（它的证书体系独立于操作系统的），则需要执行如下步骤：
+
+1. 从菜单「工具」=>「选项」 ，打开选项对话框。
+
+2. 切换到「高级」部分，选中「加密」标签页，点「查看证书」按钮。
+
+3. 在证书对话框中，切换到「证书机构」。
+
+4. 里面的证书列表是按字母排序的。把 CNNIC 打头的都删除。
+
+**注：如果某个证书是 Firefox 自带的，则删除之后，下次再打开该对话框，此证书还在。不过不要紧，它的所有「信任设置」，都已经被清空了。**
+
+## 
+
+#### 4.5 清理门户完毕，验证是否成功
+
+为了保险起见，在完成上述的清除工作之后，需要用浏览器访问一下 https://www.cnnic.cn （记得用 **HTTPS** 协议哦）。
+
+如果浏览器报告该网站的证书有问题，那恭喜你，你的门户清理干净了。
+反之，就要重新检查一下，看上述操作是否出了差错。
+
+![image13](https://41.media.tumblr.com/3882a3308dc604705b2f272fbd57f224/tumblr_nw0byvzrOk1uft3xho5_r1_1280.png)
+
+--- 
+### 
 
