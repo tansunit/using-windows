@@ -341,21 +341,21 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 
  ![image18](https://40.media.tumblr.com/b1b25ac8dfe93d2fb79fc19d1b09c0c2/tumblr_nw0is68YrH1uft3xho5_r1_540.png)
  
- （4）密码数据库配置
+（4）密码数据库配置
  
- 【常规】：根据自己喜好设置密码数据库名称、简短描述、颜色
+* **常规：**根据自己喜好设置密码数据库名称、简短描述、颜色
  ![image19](https://40.media.tumblr.com/147b19ee441ac44fb870e2310d231a93/tumblr_nw0is68YrH1uft3xho6_r1_500.png)
  
- 【安全】：默认设置
+* **安全：**默认设置
  ![image20](https://41.media.tumblr.com/6eeef55da8c28401cdff878649e4bab5/tumblr_nw0is68YrH1uft3xho7_r2_500.png)
  
- 【压缩】：默认设置
+* **压缩：**默认设置
  ![image21](https://41.media.tumblr.com/ca5e55eb489dfe3bc461f0e1d1506e01/tumblr_nw0is68YrH1uft3xho8_r1_500.png)
  
- 【高级】：如需要过段时间更改密码，可以勾选并设置时间间隔。
-  ![image22](https://41.media.tumblr.com/bb59be10228b6f8dbf5ddd6cbad71122/tumblr_nw0is68YrH1uft3xho9_r1_500.png)
+* **高级：**如需要过段时间更改密码，可以勾选并设置时间间隔。
+ ![image22](https://41.media.tumblr.com/bb59be10228b6f8dbf5ddd6cbad71122/tumblr_nw0is68YrH1uft3xho9_r1_500.png)
  
- （5）保存密码数据库
+（5）保存密码数据库
  
  **文件**——**另存为**——**选择至文件**——保存位置、命名文件
  ![image23](https://40.media.tumblr.com/dcac30a50f3bd9d71dd0272e30f1ad5f/tumblr_nw0is68YrH1uft3xho10_r1_1280.png)
