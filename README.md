@@ -1,4 +1,4 @@
-My Awesome Book
+介绍
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+汇总一些 Windows 使用常识。包括系统管理、常用软件、信息检索三方面。
