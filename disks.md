@@ -35,10 +35,10 @@ D/E 盘：非系统盘，存放各种软件、文件。
 ![image3](https://41.media.tumblr.com/9fd15a3a52a49240f7d2b2e967721d19/tumblr_nvybt5Eg671uft3xho2_r1_400.png)
 
 2. **清理电脑缓存**
- 1. Winkey+R ，出现【运行】对话框，输入**`%temp%`**，【确定】。
+ 1. Winkey+R ，出现【运行】对话框，输入**```%temp%```**，【确定】。
 ![image4](https://41.media.tumblr.com/7bd96bf01cc8e1e970d0ed1db63ae14c/tumblr_nvybt5Eg671uft3xho3_500.png)
  
- 2. 进入`C:\Users\xxx\AppData\Local\Temp`文件夹。选择全部文件（夹），删除。提醒某文件正被使用时，【跳过】即可。
+ 2. 进入```C:\Users\xxx\AppData\Local\Temp```文件夹。选择全部文件（夹），删除。提醒某文件正被使用时，【跳过】即可。
 ![image5](https://41.media.tumblr.com/4620213add359186734f66e6e8d86728/tumblr_nvybt5Eg671uft3xho4_r1_1280.png)
 
 3. **磁盘碎片整理**
