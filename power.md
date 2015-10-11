@@ -3,12 +3,17 @@
 合适的电源选项可以减少计算机耗电量、提高使用性能，延长笔记本电池使用时间。
 
 电源使用计划主要包括**屏幕显示亮度**、**显示器关闭时间**、**计算机进入睡眠状态**。
-![image1](https://40.media.tumblr.com/3173fce8a8d62d7dabfed8d0eac58431/tumblr_nvzpcmVnwC1uft3xho2_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/3173fce8a8d62d7dabfed8d0eac58431/tumblr_nvzpcmVnwC1uft3xho2_1280.png"/>
+</div>
 
 电脑默认的电源计划是平衡、节能、高性能（如下图）。三者都可以自定义更改计划设置。
-![image2](https://40.media.tumblr.com/7269f6bbc66ade926fa256c26dc2ad73/tumblr_nvzpcmVnwC1uft3xho1_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/7269f6bbc66ade926fa256c26dc2ad73/tumblr_nvzpcmVnwC1uft3xho1_1280.png"/>
+<div>
 
-### 1. 自动关闭屏幕显示
+
+### 自动关闭屏幕显示
 
 在没有操作电脑的时候，电脑会自动进入关闭屏幕显示状态，「关闭显示器」需要的时间可以在上图界面设置。
 
@@ -39,7 +44,10 @@ Windows 7 的「睡眠」选项适合绝大多数计算机。如果只需在短�
 
 * **开启方式**
  
- * 从**开始**菜单打开 ![image3](https://41.media.tumblr.com/e1584d28714051598c813c44011056f3/tumblr_nvzpcmVnwC1uft3xho4_500.png)
+ * 从**开始**菜单打开 
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/e1584d28714051598c813c44011056f3/tumblr_nvzpcmVnwC1uft3xho4_500.png"/>
+</div>
  * 电源按钮、合上笔记本盖子
 
 
@@ -48,4 +56,6 @@ Windows 7 的「睡眠」选项适合绝大多数计算机。如果只需在短�
 推荐从睡眠/休眠状态唤醒电脑需要密码，否则，任何人都可以读取电脑上的数据、进行更多操作。
 
 设置方法如下图
-![image4](https://41.media.tumblr.com/adb63bdde52be67609800ec307a54ca6/tumblr_nvzpcmVnwC1uft3xho3_540.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/adb63bdde52be67609800ec307a54ca6/tumblr_nvzpcmVnwC1uft3xho3_540.png"/>
+</div>
