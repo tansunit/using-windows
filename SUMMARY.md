@@ -16,5 +16,5 @@
    * [科学上网](Internet.md)
    * [安全防护](Security.md)
    * [Firefox 浏览器](firefox.md)
-* 信息检索
+* [信息检索](search-information.md)
 
