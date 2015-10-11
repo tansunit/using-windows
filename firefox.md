@@ -144,4 +144,33 @@ NoScript 安装后会自动在后台运行。当其发现诸如 JavaScript、Ado
 * **尽量避免选择允许本页面所有对象选项。**
 * 有些时候，您可能需要允许网站全部脚本以使其正常运行；这种情况下，请确定您正在使用的网站确实可靠，并仅仅暂时性的使用这一功能直到浏览过程结束。因为恶意代码的一次感染就有可能使您的安全隐私信息泄露。
 
+（2）**HTTPS Everywhere**
+
+* 1）官网：https://www.eff.org/https-everywhere
+
+* 2）作用：强制启用 https，为你和数千个网站间的通信加密
+
+* 3）设置：勾选**拦截所有 HTTP 请求**
+
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/67c5e866a86cad274f53df20300f93c2/tumblr_nw1aswK22E1uft3xho4_1280.png"/>
+</div>
+
+
+（3）**uBlock Origin**
+
+* 1）官网：https://github.com/gorhill/uBlock
+
+* 2）作用：广告、弹出窗口拦截
+
+（4）**Adblock Plus**
+
+* 1）作用：限制或者禁止网页广告的弹出
+
+* 2）设置：安装完毕自动出现如图界面，可选择性勾选这三项。
+
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/744f765c6e0228acef070002d91fdf2f/tumblr_nw1aswK22E1uft3xho6_1280.png"/>
+</div>
+
 
