@@ -122,6 +122,7 @@ Firefox 的附加组件包括**扩展**和**插件。**
 <div style="text-align: center">
 <img src="https://40.media.tumblr.com/53cfe5b34887b2937b3494ce26abef84/tumblr_nw1aswK22E1uft3xho3_1280.png"/>
 </div>
+
  * **4）使用**
 
 NoScript 安装后会自动在后台运行。当其发现诸如 JavaScript、Adobe Flash 等类似脚本内容时，NoScript 就会阻止其显示，并在浏览器下方出现以下状态条：
