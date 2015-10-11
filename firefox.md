@@ -96,15 +96,18 @@ Firefox 的附加组件包括**扩展**和**插件。**
  * NoScript 选项：添加允许脚本执行的网站白名单；
  * 「全局允许脚本」不要勾选；
  
-![image11](https://40.media.tumblr.com/81a34cf0ae008d4a47846750755c526b/tumblr_nw1aswK22E1uft3xho2_1280.png)
-![image12](https://40.media.tumblr.com/53cfe5b34887b2937b3494ce26abef84/tumblr_nw1aswK22E1uft3xho3_1280.png)
- 
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/81a34cf0ae008d4a47846750755c526b/tumblr_nw1aswK22E1uft3xho2_1280.png"/>
+</div>
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/53cfe5b34887b2937b3494ce26abef84/tumblr_nw1aswK22E1uft3xho3_1280.png"/>
+</div>
  * **4）使用**
 
 NoScript 安装后会自动在后台运行。当其发现诸如 JavaScript、Adobe Flash 等类似脚本内容时，NoScript 就会阻止其显示，并在浏览器下方出现以下状态条：
 <div style="text-align: center">
 <img src="https://41.media.tumblr.com/d96a4ba84ae3a9980e665cd1ea1649eb/tumblr_nw1aswK22E1uft3xho10_r1_1280.png"/>
-</div>!
+</div>
 
 由于 NoScript 不能分辨恶意代码与真实代码，一些关键特性或是功能（比如状态栏）将无法正常运行。有时候，有些网站的显示内容，包括类脚本内容等来源于多个网站。如 http://www.youku.com 有两处脚本：
  
