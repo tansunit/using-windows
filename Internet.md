@@ -24,7 +24,9 @@ Lantern 目的是让用户能流畅地访问被封锁的互联网站点。
 
 特点：免费，稳定，安装包小（约4.36M），无需设置。
 
-![image1](https://40.media.tumblr.com/63d834e9b95551d4129aad37ed8344b1/tumblr_nw071vRSQQ1uft3xho1_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/63d834e9b95551d4129aad37ed8344b1/tumblr_nw071vRSQQ1uft3xho1_1280.png"/>
+</div>
 
 **注：**启动 Lantern 后，会从浏览器中打开这样的网页，之后可以科学上网，不使用时在桌面右下角状态栏退出 Lantern;
 
@@ -49,7 +51,9 @@ Lantern 目的是让用户能流畅地访问被封锁的互联网站点。
  2. 下载 Shadowsocks-win
  3. 填写如下对话框
 
- ![image2](https://41.media.tumblr.com/cbd60a964a326f62691c070a6ca2d92c/tumblr_nw071vRSQQ1uft3xho2_500.png)
+ <div style="text-align:center">
+ <img src="https://41.media.tumblr.com/cbd60a964a326f62691c070a6ca2d92c/tumblr_nw071vRSQQ1uft3xho2_500.png"/>
+ </div>
 
 *（买的 VPS 服务，包含**服务器 IP**、**服务器端口**、**密码**、**加密方式**，需要填入的也是这四项）*
 
