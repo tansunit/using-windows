@@ -74,3 +74,5 @@ Firefox 的附加组件包括**扩展**和**插件。**
 
 #### 2.2 扩展安装
 
+（1）直接在 ```about:addons``` 安装
+ ![image9](https://40.media.tumblr.com/a088eb3f427481021642850d49e5641a/tumblr_nw16rnhiyI1t03x8ro9_540.png)
