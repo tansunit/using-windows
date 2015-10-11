@@ -30,6 +30,9 @@ Lantern 目的是让用户能流畅地访问被封锁的互联网站点。
 
 图示界面右下角可设置所有流量通过，开机自启动。
 
+**Lantern 正在开发 Android app**
+> Many of you have asked about Lantern mobile. We're happy to say we're working hard to build a Lantern Android app and we'll let you know as soon as it becomes available.  ——Team Lantern
+
 --- 
 ### 3. 付费 VPN 
 
