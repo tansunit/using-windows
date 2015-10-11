@@ -85,6 +85,7 @@ Firefox 的附加组件包括**扩展**和**插件。**
 <div syle="text-align: center">
 <img src="https://40.media.tumblr.com/d8357d986b87847d70233439725d9560/tumblr_nw1aswK22E1uft3xho1_1280.png"/>
 </div>
+
 ## 
 
 #### 2.2 扩展安装
