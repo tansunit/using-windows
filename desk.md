@@ -3,7 +3,9 @@
 ### 1. 背景、屏保设置
 
  1. 桌面空白处右键进入【个性化】
-![image1](https://40.media.tumblr.com/e7fe2e1d4c2434a992e9b2b175edfd32/tumblr_nvzq1gznfW1uft3xho1_540.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/e7fe2e1d4c2434a992e9b2b175edfd32/tumblr_nvzq1gznfW1uft3xho1_540.png"/>
+</div>
 
  2. 「Aero 主题」可用作桌面背景。在【桌面背景】中选择/上传图片保存为桌面背景。
 
