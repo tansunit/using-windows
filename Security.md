@@ -16,19 +16,31 @@
 
 * 新的恶意程序和病毒总是在不断产生，所以一定要及时更新 avast! 的病毒数据库以保护计算机。
 
- ![image1](https://40.media.tumblr.com/ca680a2305f3a668d8224edee9ff0c59/tumblr_nw082xxS1X1uft3xho3_1280.png)
+ <div style="text-align:center">
+ <img src="https://40.media.tumblr.com/ca680a2305f3a668d8224edee9ff0c59/tumblr_nw082xxS1X1uft3xho3_1280.png"/>
+ </div>
+
+## 
 
 #### 2.1 注册
 
 **注册可长期免费使用，默认使用30天。**
-![image2](https://40.media.tumblr.com/9602acc2dcd6001505ea084c7c037435/tumblr_nw082xxS1X1uft3xho1_1280.png)
-![image3](https://41.media.tumblr.com/0fc5f82a7d3d749f3a4b85f007bed2ca/tumblr_nw082xxS1X1uft3xho2_500.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/9602acc2dcd6001505ea084c7c037435/tumblr_nw082xxS1X1uft3xho1_1280.png"/>
+<img src="https://41.media.tumblr.com/0fc5f82a7d3d749f3a4b85f007bed2ca/tumblr_nw082xxS1X1uft3xho2_500.png"/>
+</div>
+
+## 
 
 #### 2.2 更新病毒库、应用
 
 在【设置】--【更新】设置为自动更新病毒库、程序。
 
-![image4](https://40.media.tumblr.com/a6f1ab9493d2ce7aa484eaf90b78ed9b/tumblr_nw082xxS1X1uft3xho5_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/a6f1ab9493d2ce7aa484eaf90b78ed9b/tumblr_nw082xxS1X1uft3xho5_1280.png"/>
+</div>
+
+## 
 
 #### 2.3 扫描、处理染毒文件
 
@@ -53,7 +65,9 @@
 一般，扫描中识别到的病毒会自动放到**隔离区。**
 
 * 1）打开**扫描结果**
- ![image5](https://41.media.tumblr.com/77b19f1c7d0e4279c633fe3e2786d405/tumblr_nw082xxS1X1uft3xho7_1280.png)
+<div style="text-align:center"> 
+<img src="https://41.media.tumblr.com/77b19f1c7d0e4279c633fe3e2786d405/tumblr_nw082xxS1X1uft3xho7_1280.png"/>
+</div>
 
 * 2）点击**操作/针对所有应用此操作**打开下处理病毒的下拉菜单
  
@@ -67,15 +81,21 @@
 
  * **不采取任何处理：**这个选项顾名思义，**绝对不推荐在处理有潜在危害的恶意软件或病毒时使用此项**。
 
+## 
+
 #### 2.4 使用病毒隔离区
 
 当病毒被移入 Avast! 病毒隔离区后，就可以从容不迫地考虑如何处理这些病毒了。
 
 **（1）由下图所示位置进入病毒隔离区**
-![image6](https://41.media.tumblr.com/2345af080a43c68c30a1a9f3b52e900a/tumblr_nw082xxS1X1uft3xho8_r1_1280.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/2345af080a43c68c30a1a9f3b52e900a/tumblr_nw082xxS1X1uft3xho8_r1_1280.png"/>
+</div>
 
 **（2）右键需处理的病毒文件**
-![image7](https://40.media.tumblr.com/df7d485955b8e36864b0088a9b93226b/tumblr_nw082xxS1X1uft3xho9_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/df7d485955b8e36864b0088a9b93226b/tumblr_nw082xxS1X1uft3xho9_1280.png"/>
+</div>
 
 * **删除：**此项将不可恢复地删除病毒文件。
 
@@ -104,7 +124,9 @@
 
 **设置方法：**在【控制面板】——【系统和安全】——【Windows 防火墙】设置，如需要禁止某些程序通过防火墙，取消最前面的选勾。
 
-![image8](https://40.media.tumblr.com/2d030bbe499f630fba1266cbf6bafe0e/tumblr_nw09duZXzZ1uft3xho1_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/2d030bbe499f630fba1266cbf6bafe0e/tumblr_nw09duZXzZ1uft3xho1_1280.png"/>
+</div>
 
 ---
 ### 4. 拉黑 CNNIC 证书
@@ -131,22 +153,31 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
   
  （1）下载工具并打开，双击```RevokeChinaCerts_Online.bat``` 运行 ，输入 **2**
  
- ![image9](https://41.media.tumblr.com/e42d596db1ca63f1d0b569311b46e272/tumblr_nw0byvzrOk1uft3xho1_1280.png)
+ <div style="text-align:center">
+ <img src="https://41.media.tumblr.com/e42d596db1ca63f1d0b569311b46e272/tumblr_nw0byvzrOk1uft3xho1_1280.png"/>
+ </div>
 
   （2）等待执行完毕，按任意键。
   
- ![image10](https://41.media.tumblr.com/fe4326abe3c891a849881d276228b89e/tumblr_nw0byvzrOk1uft3xho2_540.png)
+ <div style="text-align:center">
+ <img src="https://41.media.tumblr.com/fe4326abe3c891a849881d276228b89e/tumblr_nw0byvzrOk1uft3xho2_540.png"/>
+ </div>
+ 
 **说明：**运行时如果遇到 ```Error: Can not find a certificate matching the hash value``` 或 ```Failed to save to the destination store```  等不需要在意，只要添加吊销证书时出现 **CertMgr Succeeded** 即可。
  
 2. 屏蔽某些软件运行、部分组织和企业的证书
 
  （1）在同一个文件中，双击运行```RevokeChinaCerts_CodeSigning.bat```或 ```RevokeChinaCerts_Organization.bat```。输入** y **并确定。
  
- ![image11](https://40.media.tumblr.com/4cdb388b0bd678c792701d344fba6669/tumblr_nw0byvzrOk1uft3xho3_1280.png)
+ <div style="text-align:center">
+ <img src="https://40.media.tumblr.com/4cdb388b0bd678c792701d344fba6669/tumblr_nw0byvzrOk1uft3xho3_1280.png"/>
+ </div>
  
  （2）继续输入 **1 **，看到类似下图，说明执行成功。
  
-  ![image12](https://40.media.tumblr.com/561445c9d5b37083487c74d2158a3026/tumblr_nw0byvzrOk1uft3xho4_1280.png)
+  <div style="text-align:center">
+  <img src="https://40.media.tumblr.com/561445c9d5b37083487c74d2158a3026/tumblr_nw0byvzrOk1uft3xho4_1280.png"/>
+  </div>
 
 ## 
 
@@ -195,7 +226,9 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 如果浏览器报告该网站的证书有问题，那恭喜你，你的门户清理干净了。
 反之，就要重新检查一下，看上述操作是否出了差错。
 
-![image13](https://41.media.tumblr.com/3882a3308dc604705b2f272fbd57f224/tumblr_nw0byvzrOk1uft3xho5_r1_1280.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/3882a3308dc604705b2f272fbd57f224/tumblr_nw0byvzrOk1uft3xho5_r1_1280.png"/>
+</div>
 
 --- 
 ### 5. 如何设置密码
@@ -310,7 +343,9 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 
 *1.29+适用于 KeePass 1.x 版本，2.30+适用于 KeePass 2.x 版本。*
 
-![image14](https://41.media.tumblr.com/9fcfdd7e7550c54f1230a4fba4e995e7/tumblr_nw0is68YrH1uft3xho1_1280.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/9fcfdd7e7550c54f1230a4fba4e995e7/tumblr_nw0is68YrH1uft3xho1_1280.png"/>
+</div>
 
 （2）解压缩语言包文件，将里面的语言文件移动到 KeePass 安装文件内，与 KeePass.exe 处于同一文件中。
 
