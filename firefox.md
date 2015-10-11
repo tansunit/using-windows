@@ -34,8 +34,18 @@
 
 **（3）搜索设置**
 
-* **1）默认搜索引擎**：点击下拉选择一个，建议选择 **DuckDuckGo/Google /StartPage** 其中一种。关于搜索引擎的选择、使用，请阅读**[信息检索](https://cmmei.gitbooks.io/using-windows/content/search-engine.html)**
+* **1）默认搜索引擎**：点击下拉选择一个，建议选择 **DuckDuckGo/Google /StartPage** 其中一种。关于搜索引擎的选择、使用，请阅读**[信息检索](https://cmmei.gitbooks.io/using-windows/content/search-engine.html)**。
+![image3](https://41.media.tumblr.com/de6b56f2d99f52d1b213edc62c1ea21d/tumblr_nw16rnhiyI1t03x8ro3_1280.png)
 
-* **2）快捷搜索引擎列表：在搜索时选择检索方式。**常用的有** DuckDuckGo/StartPage/Google/Wikipedia. **
-**                                                  不要用百度搜索引擎**
+* **2）快捷搜索引擎列表：**在搜索时选择检索方式。常用的有** DuckDuckGo/StartPage/Google/Wikipedia.** *不要用百度！*
+![image4](https://41.media.tumblr.com/994fff6b0315736fc6d6d163586c6b24/tumblr_nw16rnhiyI1t03x8ro4_1280.png)
 
+**（4）隐私设置**
+
+**请勿跟踪（DNT）**：勾选。这一选择对遵守网络 W3C 规则的网站有效，对那些流氓网站无效。
+![image5](https://40.media.tumblr.com/936ca601ba5c24d26842f25135954452/tumblr_nw16rnhiyI1t03x8ro5_1280.png)
+
+**（5）安全设置**
+
+**常规**后面两项不要勾选，以避免 Firefox 向 Google 发送网址的一些信息。
+![image6](https://41.media.tumblr.com/d104d0bd0967b2b9f190c01a75aa3d1d/tumblr_nw16rnhiyI1t03x8ro6_1280.png)
