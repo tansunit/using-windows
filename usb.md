@@ -44,13 +44,19 @@
 * 禁用 Windows 的 autorun 特性（自动识别播放移动设备）;
 
  1. 从【控制面板】进入【硬件和声音】
-![image1](https://41.media.tumblr.com/fb8f894da96cf972b3c5e4ba7ac274f7/tumblr_nvzoz89ytK1uft3xho1_1280.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/fb8f894da96cf972b3c5e4ba7ac274f7/tumblr_nvzoz89ytK1uft3xho1_1280.png"/>
+</div>
 
  2. 在【硬件和声音】中点击【**自动播放 CD 或其他媒体**】
-![image2](https://40.media.tumblr.com/4c71b58e814e866fca1add4adc76e959/tumblr_nvzoz89ytK1uft3xho2_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/4c71b58e814e866fca1add4adc76e959/tumblr_nvzoz89ytK1uft3xho2_1280.png"/>
+</div>
 
  3. 取消最上端的打勾（此处默认是勾选状态）
-![image3](https://41.media.tumblr.com/c88f69ea90b27c8b90a1aee13a733603/tumblr_nvzoz89ytK1uft3xho3_r1_1280.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/c88f69ea90b27c8b90a1aee13a733603/tumblr_nvzoz89ytK1uft3xho3_r1_1280.png"/>
+</div>
 
 **建议1：如果不得不在打印店等公共电脑上插入U 盘，在此之前先在电脑上这样操作。**
 
