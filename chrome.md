@@ -104,10 +104,71 @@ Chrome 是Google Chrome 的稳定版本，目前最新是45.0.2454.101 m (64-bit
 
 --- 
 
-### 2. 常用插件
+### 2. 必装插件
 
+与 Firefox 安装的插件类似，使用方式相同。
 
+（1）**[HTTPS Everywhere](Chrome Store：https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp)**
 
+官网：https://www.eff.org/https-everywhere
+
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/0b194ef74e0091d02c379d1b03ca9eb3/tumblr_nw1l2myJFq1uft3xho1_540.png">
+</div>
+
+（2）**[AdBlock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)——广告拦截**
+
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/b3276bf089ad70ae35416320cafaf898/tumblr_nw1l2myJFq1uft3xho2_r1_1280.png"/>
+</div>
+
+（3）**[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)——广告拦截**
+
+官网：https://github.com/gorhill/uBlock
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/2ac79fb053e5c023b906b489f759df29/tumblr_nw1l2myJFq1uft3xho3_r1_540.png"/>
+</div>
+
+*uBlock Origin 比AdBlock Plus 占用内存小*
+
+--- 
+
+### 3. 推荐插件
+
+（1）**[Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj?hl=en)（Gmail邮件提醒及标记）**
+
+安装后需要以 Google 账户登录。
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/a677bc13a6a36ca6f57287fd6e5ec946/tumblr_nw1l2myJFq1uft3xho4_r1_1280.png"/>
+</div>
+
+（2）**[Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)——稍后阅读**
+
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/f28b26a7c3d13b3cb8c6954292526667/tumblr_nw1l2myJFq1uft3xho5_r1_1280.png"/>
+</div>
+
+（3）**[Delicious Tools](https://chrome.google.com/webstore/detail/delicious-tools/gclkcflnjahgejhappicbhcpllkpakej)**
+
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/c221d504bdbe3eab2e7fb940a856ca09/tumblr_nw1l2myJFq1uft3xho6_r1_1280.png">
+</div>
+
+（4）**[Evernote Web Clipper](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc)**
+
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/d1c6fc8079671d5181e96c960326e561/tumblr_nw1l2myJFq1uft3xho7_r1_1280.png"/>
+</div>
+
+（5）**[Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)——多设备间互相同步、推送**
+
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/a2d57580097fe1eae1e5ed3076fdb14a/tumblr_nw1l2myJFq1uft3xho8_r1_1280.png"/>
+</div>
+
+---
+
+*总结完毕，持续更新......*
 
 
 
