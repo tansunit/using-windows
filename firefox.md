@@ -75,4 +75,47 @@ Firefox 的附加组件包括**扩展**和**插件。**
 #### 2.2 扩展安装
 
 （1）直接在 ```about:addons``` 安装
- ![image9](https://40.media.tumblr.com/a088eb3f427481021642850d49e5641a/tumblr_nw16rnhiyI1t03x8ro9_540.png)
+![image9](https://40.media.tumblr.com/a088eb3f427481021642850d49e5641a/tumblr_nw16rnhiyI1t03x8ro9_540.png)
+
+（2）通过 Firefox 官网安装
+![image10](https://40.media.tumblr.com/bbd4dc3a78a4e9e03fd061c8520bb82e/tumblr_nw1aswK22E1uft3xho8_r1_1280.png)
+
+## 
+ 
+#### 2.3 必装扩展
+
+（1）**NoScript**（2.6.9.37）
+
+* 1）官网：https://noscript.net/  
+
+* 2）作用：只启用你信任的网站上面的 JavaScript、Java 和 Flash 内容
+
+* 3）设置
+
+ * 建议启用**全局禁止脚本；**
+ * NoScript 选项：添加允许脚本执行的网站白名单；
+ * 「全局允许脚本」不要勾选；
+ 
+![image11](https://40.media.tumblr.com/81a34cf0ae008d4a47846750755c526b/tumblr_nw1aswK22E1uft3xho2_1280.png)
+![image12](https://40.media.tumblr.com/53cfe5b34887b2937b3494ce26abef84/tumblr_nw1aswK22E1uft3xho3_1280.png)
+ 
+ * **4）使用**
+
+NoScript 安装后会自动在后台运行。当其发现诸如 JavaScript、Adobe Flash 等类似脚本内容时，NoScript 就会阻止其显示，并在浏览器下方出现以下状态条：
+![image13](https://41.media.tumblr.com/d96a4ba84ae3a9980e665cd1ea1649eb/tumblr_nw1aswK22E1uft3xho10_r1_1280.png)
+
+由于 NoScript 不能分辨恶意代码与真实代码，一些关键特性或是功能（比如状态栏）将无法正常运行。有时候，有些网站的显示内容，包括类脚本内容等来源于多个网站。如 http://www.youku.com 有两处脚本：
+ 
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/f98450c474b54315aa65a6bb59185550/tumblr_nw1aswK22E1uft3xho7_400.png"/>
+</div> 
+
+这种情况下，如果要解除对脚本内容的限制，请选择 **临时允许[网站名称]**选项（对 http://www.youku.com 只需**临时允许 youku.com** 和 **ykimg.com** 
+
+**警告！：**
+
+* **在任何情况下都不要选择：全局允许脚本（危险）**选项。
+* **尽量避免选择允许本页面所有对象选项。**
+* 有些时候，您可能需要允许网站全部脚本以使其正常运行；这种情况下，请确定您正在使用的网站确实可靠，并仅仅暂时性的使用这一功能直到浏览过程结束。因为恶意代码的一次感染就有可能使您的安全隐私信息泄露。
+
+
