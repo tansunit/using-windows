@@ -173,4 +173,35 @@ NoScript 安装后会自动在后台运行。当其发现诸如 JavaScript、Ado
 <img src="https://41.media.tumblr.com/744f765c6e0228acef070002d91fdf2f/tumblr_nw1aswK22E1uft3xho6_1280.png"/>
 </div>
 
+## 
 
+#### 2.4 推荐扩展
+
+（1）**Delicious**
+
+* 1）官网：https://delicious.com/   
+
+* 2）作用：收藏对自己有用的网站，并标签化。可以看到互联网上已经分享收藏该网站的是哪些人。这样形成滚雪球式学习。
+
+* 3）需要有 Delicious.com (https://delicious.com/) 帐号登录，也可以通过 Google/Facebook/Twitter 帐号连接登录。
+
+（2）**Evernote Web Clipper**
+
+* 1）作用：可以快速保存网页内容到 Evernote ，包括网页正文、图片、截屏和整个网页。
+
+* 2）需要 Evernote 帐号登录。（https://evernote.com ）
+
+（3）**Pushbullet**
+
+* 1）作用：多设备信息同步，安装有 Pushbullet 应用/扩展的设备间同步网站、文字、图片、文档。
+
+* 2）需要 Pushbullet 帐号登录（https://www.pushbullet.com/ ）
+
+（4）**Pocket**
+
+* 1）来源：https://getpocket.com/firefox_learnmore
+
+* 2）作用：保存网站内容供在空闲时**离线阅读**。
+
+
+*总结完毕，持续更新......*
