@@ -56,6 +56,18 @@
 
 * 建议下载安装标准版，安装后文件并不大（34M），放在 C 盘也可以接受。
 
-* Google 拼音默认无法直接输入「 」两个直引号
+* Google 拼音无法直接输入直角引号。
+
+#### 2.2 安装说明
+
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/79ca123c35173cd771d1799cd233a4f4/tumblr_nw1nfoSXcE1uft3xho3_540.png"/>
+</div>
+*（这里打勾可有可无）*
+
+<div style="text-align: center">
+<img src="https://41.media.tumblr.com/c0a10ee1b3d97a0ddf724f24465c4393/tumblr_nw1nfoSXcE1uft3xho4_500.png"/>
+</div>
+*（设置使用向导，跟着提醒，按照自己使用习惯设置）*
 
 
