@@ -47,5 +47,30 @@
 
 **（5）安全设置**
 
-**常规**后面两项不要勾选，以避免 Firefox 向 Google 发送网址的一些信息。
+**常规**后面两项不要勾选，以避免 Firefox 向 Google 发送网址的一些信息。（Mozilla sends reported URL hashes to Google.）
 ![image6](https://41.media.tumblr.com/d104d0bd0967b2b9f190c01a75aa3d1d/tumblr_nw16rnhiyI1t03x8ro6_1280.png)
+
+## 
+
+### 2. 常用扩展
+
+#### 2.1 扩展的作用
+
+添加了扩展的浏览器就像多功能螺丝刀（暂时想不出更好的类比了），Firefox 是螺丝刀本身，安装的扩展是不同用途的刀头。唯一不同的是，浏览器的扩展可以同时使用，螺丝刀刀头需要手动更换，不能同时使用。
+
+扩展主要有两方面作用：提高用户的隐私安全性，检索信息更方便。
+
+**添加扩展/插件是 IE 浏览器、国产浏览器没有的。**
+
+Firefox 的附加组件包括**扩展**和**插件。**
+
+**获取方式：**在附加组件界面搜索需要安装的扩展，或者在 https://addons.mozilla.org 搜索扩展安装。
+
+也可以在地址栏输入 ```about:addons``` ，再搜索。
+![image7](https://41.media.tumblr.com/f19542ce191d2f76f636c98ae18c24b2/tumblr_nw16rnhiyI1t03x8ro7_1280.png)
+![image8](https://40.media.tumblr.com/d8357d986b87847d70233439725d9560/tumblr_nw1aswK22E1uft3xho1_1280.png)
+
+## 
+
+#### 2.2 扩展安装
+
