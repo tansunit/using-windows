@@ -349,7 +349,9 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 
 （2）解压缩语言包文件，将里面的语言文件移动到 KeePass 安装文件内，与 KeePass.exe 处于同一文件中。
 
-![image15](https://41.media.tumblr.com/29c381fab8ddcc29ffa3575f1568a824/tumblr_nw0is68YrH1uft3xho2_r1_1280.png)
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/29c381fab8ddcc29ffa3575f1568a824/tumblr_nw0is68YrH1uft3xho2_r1_1280.png"/>
+</div>
 *（如图，Chinese_Simplified.lngl 是我下载的语言文件）*
 
 （3）启动 KeePass （若处于开启状态，需关闭重新打开），从 **View 菜单**进入** Change Language** 项，选择添加的中文语言，重启 KeePass
@@ -360,11 +362,15 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 
 （1）启动 KeePass , 选择 **文件**--**新建**
 
-![image16](https://40.media.tumblr.com/2dda887c5a01d44b772f7d51ecc54648/tumblr_nw0is68YrH1uft3xho3_r1_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/2dda887c5a01d44b772f7d51ecc54648/tumblr_nw0is68YrH1uft3xho3_r1_1280.png"/>
+</div>
 
 (2)设置密码数据库存放位置、密码数据库文件命名（一般默认即可，方便日后找）
 
-![image17](https://40.media.tumblr.com/20c436a673d31cb4cbc4a4364dc2c023/tumblr_nw0is68YrH1uft3xho4_r1_1280.png)
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/20c436a673d31cb4cbc4a4364dc2c023/tumblr_nw0is68YrH1uft3xho4_r1_1280.png"/>
+</div>
 
 （3）设置**独一无二的管理密码。**
 
@@ -374,33 +380,47 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 * 不建议使用第三种【Windows 用户帐号】。
 * 输入密码时，随着使用的密码字符位数的增加，密码的强度或完整性越好，黄绿色的进度栏越偏向绿色部分。**应尽量达到绿色部分的一半左右位置。**
 
- ![image18](https://40.media.tumblr.com/b1b25ac8dfe93d2fb79fc19d1b09c0c2/tumblr_nw0is68YrH1uft3xho5_r1_540.png)
+ <div style="text-align:center">
+ <img src="https://40.media.tumblr.com/b1b25ac8dfe93d2fb79fc19d1b09c0c2/tumblr_nw0is68YrH1uft3xho5_r1_540.png"/>
+ </div>
  
 （4）密码数据库配置
  
 * **常规：**根据自己喜好设置密码数据库名称、简短描述、颜色
- ![image19](https://40.media.tumblr.com/147b19ee441ac44fb870e2310d231a93/tumblr_nw0is68YrH1uft3xho6_r1_500.png)
+<div style="text-align:center"> 
+<img src="https://40.media.tumblr.com/147b19ee441ac44fb870e2310d231a93/tumblr_nw0is68YrH1uft3xho6_r1_500.png"/>
+</div>
  
 * **安全：**默认设置
- ![image20](https://41.media.tumblr.com/6eeef55da8c28401cdff878649e4bab5/tumblr_nw0is68YrH1uft3xho7_r2_500.png)
+<div style="text-align:center"> 
+<img src="https://41.media.tumblr.com/6eeef55da8c28401cdff878649e4bab5/tumblr_nw0is68YrH1uft3xho7_r2_500.png"/>
+</div>
  
 * **压缩：**默认设置
- ![image21](https://41.media.tumblr.com/ca5e55eb489dfe3bc461f0e1d1506e01/tumblr_nw0is68YrH1uft3xho8_r1_500.png)
+<div style="text-align:center"> 
+<img src="https://41.media.tumblr.com/ca5e55eb489dfe3bc461f0e1d1506e01/tumblr_nw0is68YrH1uft3xho8_r1_500.png"/>
+</div>
  
 * **高级：**如需要过段时间更改密码，可以勾选并设置时间间隔。
- ![image22](https://41.media.tumblr.com/bb59be10228b6f8dbf5ddd6cbad71122/tumblr_nw0is68YrH1uft3xho9_r1_500.png)
+<div style="text-align:center"> 
+<img src="https://41.media.tumblr.com/bb59be10228b6f8dbf5ddd6cbad71122/tumblr_nw0is68YrH1uft3xho9_r1_500.png"/>
+</div>
  
 （5）保存密码数据库
  
  **文件**——**另存为**——**选择至文件**——保存位置、命名文件
- ![image23](https://40.media.tumblr.com/dcac30a50f3bd9d71dd0272e30f1ad5f/tumblr_nw0is68YrH1uft3xho10_r1_1280.png)
+<div style="text-align:center"> 
+<img src="https://40.media.tumblr.com/dcac30a50f3bd9d71dd0272e30f1ad5f/tumblr_nw0is68YrH1uft3xho10_r1_1280.png"/>
+</div>
  
 ## 
 
 #### 6.3 添加密码数据库（以电子邮件密码数据库添加为例）
 
 （1）点击【电子邮件】，再点击下图圈出的钥匙
- ![image24](https://40.media.tumblr.com/d88938fa7e337413dd94248b510a2187/tumblr_nw0k1qLBHx1uft3xho1_1280.png)
+ <div style="text-align:center">
+ <img src="https://40.media.tumblr.com/d88938fa7e337413dd94248b510a2187/tumblr_nw0k1qLBHx1uft3xho1_1280.png"/>
+ </div>
  
  （2）填写相关信息
 
@@ -418,8 +438,10 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 
  * **失效**：可自定义该密码失效时间，提醒自己重置密码。（定期更改密码是完全有必要的！**好的安全措施是每三个月或半年改变一次密码**）
 
- ![image25](https://40.media.tumblr.com/5c25ec42e2f6e4ec58a58a68f3593cb1/tumblr_nw0k1qLBHx1uft3xho2_500.png)
- ![image26](https://40.media.tumblr.com/c90d6f64559d79d3e87edf6a13a8894c/tumblr_nw0k1qLBHx1uft3xho3_540.png)
+ <div style="text-align:center">
+ <img src="https://40.media.tumblr.com/5c25ec42e2f6e4ec58a58a68f3593cb1/tumblr_nw0k1qLBHx1uft3xho2_500.png"/>
+ <img src="https://40.media.tumblr.com/c90d6f64559d79d3e87edf6a13a8894c/tumblr_nw0k1qLBHx1uft3xho3_540.png"/>
+ </d
  
 * **2）属性**
 
