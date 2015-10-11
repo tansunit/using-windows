@@ -16,4 +16,26 @@
 
 --- 
 
-## 1. 个性化设置
+### 1. 个性化设置
+
+（1）从如下图示位置进入 **选项（Options）**
+
+ ![image1](https://41.media.tumblr.com/4382af4ac49664c9baa6a3cb6cdbec16/tumblr_nw16rnhiyI1t03x8ro1_1280.png)
+ 
+ **（2）General（常规）设置**
+
+* **1）启动：不**勾选**始终检查 Firefox 是否是您的默认浏览器，点右侧设置为默认浏览器。**
+
+* **2）下载 **：修改**保存文件至 **的地址为**非系统盘**内**，**或者，选择第二种，每次下载手动选择保存位置。
+
+* **3）启动主页：**如不喜欢默认的主页，可改为自己常用的，如 https://www.google.com
+
+ ![image2](https://40.media.tumblr.com/394cf6510274b3e3e3bdb64ba02ebd23/tumblr_nw16rnhiyI1t03x8ro2_540.png)
+
+**（3）搜索设置**
+
+* **1）默认搜索引擎**：点击下拉选择一个，建议选择 **DuckDuckGo/Google /StartPage** 其中一种。关于搜索引擎的选择、使用，请阅读**四、信息检索——搜索引擎**
+
+* **2）快捷搜索引擎列表：在搜索时选择检索方式。**常用的有** DuckDuckGo/StartPage/Google/Wikipedia. **
+**                                                  不要用百度搜索引擎**
+
