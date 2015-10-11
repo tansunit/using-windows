@@ -448,8 +448,10 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
  * 自定义前景色、背景色：如下图，设置前景色为红色（效果如下图）
  * 替代 URL ：如下图，设置通过 Chrome 打开邮箱
  
- ![image27](https://41.media.tumblr.com/c7268e27421de7adca67ad6a019f70b4/tumblr_nw0k1qLBHx1uft3xho4_500.png)
- ![image28](https://41.media.tumblr.com/9e5109f6f4d7f7ee857f0e57a3cfc019/tumblr_nw0k1qLBHx1uft3xho5_1280.png)
+<div style="text-align:center"> 
+<img src="https://41.media.tumblr.com/c7268e27421de7adca67ad6a019f70b4/tumblr_nw0k1qLBHx1uft3xho4_500.png"/>
+<img src="(https://41.media.tumblr.com/9e5109f6f4d7f7ee857f0e57a3cfc019/tumblr_nw0k1qLBHx1uft3xho5_1280.png"/>
+</div>
 
 ## 
 
@@ -457,11 +459,15 @@ CNNIC 全称是 China Internet Network Information Center,中文叫「中国互�
 
 * 退出：直接关闭管理窗口，若提醒保存更新，可勾选**退出和锁定数据库时自动保存**
  
- ![image29](https://41.media.tumblr.com/0e3750ea2439bf00b30ae1dbed53bf48/tumblr_nw0k1qLBHx1uft3xho6_500.png)
+<div style="text-align:center"> 
+<img src="https://41.media.tumblr.com/0e3750ea2439bf00b30ae1dbed53bf48/tumblr_nw0k1qLBHx1uft3xho6_500.png"/>
+</div>
 
 * 重新进入：需输入管理密码
 
- ![image30](https://41.media.tumblr.com/c73775c928564fafc6adeabc955e86d7/tumblr_nw0k1qLBHx1uft3xho7_r1_500.png)
+ <div style="text-align:center">
+ <img src="https://41.media.tumblr.com/c73775c928564fafc6adeabc955e86d7/tumblr_nw0k1qLBHx1uft3xho7_r1_500.png"/>
+ </d
 
 ---  
  **参考资料：**
