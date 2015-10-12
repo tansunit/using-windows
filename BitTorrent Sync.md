@@ -41,3 +41,17 @@ BT sync 是一个文件同步/分享工具，可以在不同设备、网络间�
 （2）**创建用户名和密码，用于以后登录管理界面。**
 
 （3）创建一个用户名，以后接收、分享文件时公开显示的名字。下图红圈处勾选。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/470fd85b989d7c528c5748f458a3ba98/tumblr_nw46m7OmUE1uft3xho3_r2_540.png"/>
+</div>
+
+（4）从右上角锯齿进入【我的设备】，**更改设备名称**。
+
+BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫「设备名」）。
+
+如果你对隐私比较在意，建议把 BT Sync 的设备名修改掉，改成一个跟你本人真实身份无关的名称。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/017f81304be98e731b0e1726567186e8/tumblr_nw46wf4NFy1uft3xho1_1280.png"/>
+</div>
