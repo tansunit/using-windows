@@ -26,7 +26,7 @@
    * [即时通讯](IM.md)
    * [（解）压缩](7-Zip.md)
    * [优化电脑](Ccleaner.md)
-   * 协同办公 Quip
+   * [协同办公 Quip](quip.md)
    * 协同办公 Evernote
    * 文件同步与共享
    * 下载工具
