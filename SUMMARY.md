@@ -29,6 +29,7 @@
    * 协同办公 Quip
    * 协同办公 Evernote
    * 文件同步与共享
+   * 下载工具
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
