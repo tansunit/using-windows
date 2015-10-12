@@ -72,3 +72,10 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 <div style="text-align:center">
 <img src="https://41.media.tumblr.com/f5a17fc8127bc125cdca0e205f2dda02/tumblr_nw46m7OmUE1uft3xho6_r1_1280.png"/>
 </div>
+
+*比如我生成的一个文件夹分享密钥：B5RF536JNBL2OGJL5ZY5EFWDJCFEX62RY*
+
+（3）选择/创建一个文件夹用于接收同步资料
+
+<div style="text-align:center">
+<img src="
