@@ -96,4 +96,75 @@
 
 （1）点击左侧面板的**高级**，选择**视频合并**。
 <div style="text-align:center">
+<img src="https://41.media.tumblr.com/dcf04bc9ec342fa195bdb9c0f122ac01/tumblr_nw4179E63l1uft3xho1_r1_400.png"/>
+</div>
+
+（2）**添加文件，调整视频顺序**
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/e6e7dc343ed18e82708b0500fdec0262/tumblr_nw4179E63l1uft3xho2_1280.png"/>
+</div>
+
+还可以进一步设置**输出格式、截取片段**合并输出、**输出质量和大小。**后面两个设置方法与**1.2 视频格式转换相同。**
+
+**音乐合并方法与之类似。**
+
+
+更多关于格式工厂的使用，请浏览**参考资料**。
+
+## 
+
+**参考资料：**
+
+* **[格式工厂 Format Factory 使用教学](http://www.inote.tw/format-factory-review)**
+
+* **[转换格式软件Format Facroty](http://blog.xuite.net/yh96301/blog/26293161)**
+
+
+*总结完毕，持续更新......*
+
+--- 
+
+### 2. [Audacity](http://audacityteam.org/)（最新版本：2.1.1）
+
+编者最早知道并开始使用 Audacity 是因为需要录取 Windows 内部（包括网页、播放软件）的语音。
+
+**功能：记录、编辑音频文件**
+
+特点：免费，开源
+支持 WAV/AIFF/AU/IRCAM/MP3 格式音频，可以用来剪辑音频、插入空白音频。
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/26ce72cef7d3ef826c2f088bb710b12a/tumblr_nw4179E63l1uft3xho7_r2_1280.png"/>
+</div>
+
+## 
+
+#### 2.1 工具列介绍
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/1447c4887b262d0f0bf47168c1e8ee1a/tumblr_nw4179E63l1uft3xho8_r1_1280.png"/>
+</div>
+
+* **A：播放控制区。**由左到右依次是暂停、播放、停止、跳至起点、跳至终点、开始录音。
+
+* **B：编辑模式区。**由左到右，由上到下依次是选取工具、波封工具、拖拉工具、缩放工具、时间移位工具、复合工具模式。
+
+* **C：信号水平计。**监控总输出与输入音量大小。
+
+* **D：混音控制区。**控制播放与录音音量大小。
+
+* **E：编辑工具区。**基本的剪切、复制、粘贴、保留选取范围、静音、复原、重做、各种缩放功能等。
+
+* **F：聆听工具区。**控制播放速度。
+
+* ** G：装置工具区。**设定各种输出入硬件装置。
+
+## 
+
+#### 2.2 录制音频
+（1）在 G 区将**录制声道**（第三个选择项）改为**立体声**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/50974bcbbbabc93416f3000bfd0b3317/tumblr_nw4179E63l1uft3xho5_540.png"/>
+</div>
+
+
 
