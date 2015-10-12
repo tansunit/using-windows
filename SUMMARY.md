@@ -25,6 +25,7 @@
    * [电子书管理 Calibre](Calibre.md)
    * [即时通讯](IM.md)
    * [（解）压缩](7-Zip.md)
+   * 优化电脑
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
