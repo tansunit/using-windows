@@ -18,6 +18,7 @@
    * [Firefox 浏览器](firefox.md)
    * [Chrome 浏览器](chrome.md)
    * [输入法](Input.md)
+   * 图片处理
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
