@@ -43,11 +43,12 @@ Windows 7 的「睡眠」选项适合绝大多数计算机。如果只需在短�
 
 * **开启方式**
  
- * 从**开始**菜单打开 
+ 1）从**开始**菜单打开
 <div style="text-align:center">
 <img src="https://41.media.tumblr.com/e1584d28714051598c813c44011056f3/tumblr_nvzpcmVnwC1uft3xho4_500.png"/>
 </div>
- * 电源按钮、合上笔记本盖子
+ 
+ 2）电源按钮、合上笔记本盖子
 
 
 * **唤醒时需要密码**
