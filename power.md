@@ -3,22 +3,21 @@
 合适的电源选项可以减少计算机耗电量、提高使用性能，延长笔记本电池使用时间。
 
 电源使用计划主要包括**屏幕显示亮度**、**显示器关闭时间**、**计算机进入睡眠状态**。
-<div style="text-align:center">
+<div style="text-align: center">
 <img src="https://40.media.tumblr.com/3173fce8a8d62d7dabfed8d0eac58431/tumblr_nvzpcmVnwC1uft3xho2_1280.png"/>
 </div>
 
-电脑默认的电源计划是平衡、节能、高性能（如下图）。三者都可以自定义更改计划设置。
-<div style="text-align:center">
+电脑默认的电源计划是**平衡、节能、高性能**（如下图）。三者都可以自定义更改计划设置。
+<div style="text-align: center">
 <img src="https://40.media.tumblr.com/7269f6bbc66ade926fa256c26dc2ad73/tumblr_nvzpcmVnwC1uft3xho1_1280.png"/>
-<div>
+</div>
 
-
-### 自动关闭屏幕显示
+### 自定义屏幕显示
 
 在没有操作电脑的时候，电脑会自动进入关闭屏幕显示状态，「关闭显示器」需要的时间可以在上图界面设置。
 
 --- 
-### 2. 睡眠与休眠的区别、作用
+### 睡眠与休眠的区别、作用
 
 我们经常习惯用完电脑就关机，然后下次使用时花费将近2分钟（或者更久）开机，再一个个把想用的软件打开。
 
