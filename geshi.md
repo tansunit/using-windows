@@ -205,7 +205,9 @@
 * **注**：在定位 LAME 对话框中点击**下载**，在新网页下载 LAME  (http://lame.buanzo.org/#lamewindl)，安装。
 再进行导出操作。
 <div style="text-align:center">
-<div src="https://40.media.tumblr.com/8130cac4471320a7cdff6493d1618ef0/tumblr_nw44esjrRp1uft3xho2_250.png"/>
+<img src="https://40.media.tumblr.com/8130cac4471320a7cdff6493d1618ef0/tumblr_nw44esjrRp1uft3xho2_250.png"/>
+<img src="https://40.media.tumblr.com/242a5472fbd1317d6fc8116fcbed3796/tumblr_nw44esjrRp1uft3xho1_400.png"/>
 </div>
+
 
 
