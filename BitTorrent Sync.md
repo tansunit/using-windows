@@ -24,7 +24,8 @@ BT sync 是一个文件同步/分享工具，可以在不同设备、网络间�
 
 编者以前在对比挑选诸多网盘时总觉得每一个都不满意，Dropbox、Box、Google Drive 一类虽然相对安全些，但提供的免费空间有限，而且网站访问不方便，上传、下载慢。国内的百度网盘、腾讯微云一类提供的免费空间比较大（500G 以上），但下载不方便，而且最重要一点是并非任何文件都可以放心地存储在上面（即使手动给文件上锁），不知哪天某些文件就莫名其妙地消失，无法使用。
 
-## 
+--- 
+
 ### 2. [下载](https://www.getsync.com/)、安装
 （1）下载安装后会自动在浏览器中访问  http://127.0.0.1:8888/ ，进入 BT Sync 管理界面。
 
@@ -54,4 +55,20 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 
 <div style="text-align:center">
 <img src="https://41.media.tumblr.com/017f81304be98e731b0e1726567186e8/tumblr_nw46wf4NFy1uft3xho1_1280.png"/>
+</div>
+
+--- 
+
+### 3.  接收文件
+
+（1）从右上角锯齿进入【手动链接】
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/51831708a5a9b089f2d92610c3689056/tumblr_nw46m7OmUE1uft3xho5_r1_400.png"/>
+</div>
+
+（2）输入其他设备生成的密钥或链接（多为密钥），下一步
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/f5a17fc8127bc125cdca0e205f2dda02/tumblr_nw46m7OmUE1uft3xho6_r1_1280.png"/>
 </div>
