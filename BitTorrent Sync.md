@@ -125,3 +125,7 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 * 安全性，如果想长期同步/分享该文件夹，可取消第二勾。
 * 如需要将分享链接通过电邮告知别人，可点击**3**操作。
 
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/0f472e981360dd016c85f18daf0a82bd/tumblr_nw46wf4NFy1uft3xho2_1280.png"/>
+</div>
+
