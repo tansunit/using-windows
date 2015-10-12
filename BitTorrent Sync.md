@@ -78,4 +78,5 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 （3）选择/创建一个文件夹用于接收同步资料
 
 <div style="text-align:center">
-<img src="
+<img src="https://40.media.tumblr.com/188271facf6331219dcd96d81df1f31a/tumblr_nw46m7OmUE1uft3xho7_r1_1280.png"/>
+</div>
