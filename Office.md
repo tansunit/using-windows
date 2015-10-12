@@ -96,6 +96,9 @@ LibreOffice 默认保存格式为 **.odt** ,如需要保存为 **.docx** ,**```C
 <img src="https://41.media.tumblr.com/137de9c1a35fd405ed918fd68d2e8107/tumblr_nw3e1xmeLv1uft3xho8_1280.png"/>
 </div>
 
-
+** 4.3 选择部分文字并处理**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/b9f11cf79d8009819318217f4e880f14/tumblr_nw3e1xmeLv1uft3xho9_1280.png"/>
+</div>
 
  
