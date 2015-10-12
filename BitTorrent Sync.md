@@ -111,3 +111,17 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 <div style="text-align:center">
 <img src="https://41.media.tumblr.com/de7bcd515b6e87f711d67eceac095106/tumblr_nw46m7OmUE1uft3xho10_r1_540.png"/>
 </div>
+
+（3）选择需要同步/分享的文件夹。**一次只能选择一个文件夹，无法直接选择具体文件。**
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/188271facf6331219dcd96d81df1f31a/tumblr_nw46m7OmUE1uft3xho7_r1_1280.png"/>
+</div>
+
+（4）【打开】待同步文件夹后，会自动弹出同步/分享设置窗口
+
+
+* 权限默认【只读】即可，除非允许同步该文件的人（也可以是自己）编辑它。
+* 安全性，如果想长期同步/分享该文件夹，可取消第二勾。
+* 如需要将分享链接通过电邮告知别人，可点击**3**操作。
+
