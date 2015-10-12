@@ -213,7 +213,29 @@
 ## 
 
 #### 2.4 剪辑音频
+（1）从**文件--打开**导入需要剪辑的音频
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/cd427c61cec67aa56af44dc5a8bfb763/tumblr_nw4179E63l1uft3xho10_1280.png"/>
+</div>
 
+（2）点击**播放**按钮，听音频过程中，按 **```Ctrl+M```** 标记剪辑音频首尾。
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/5bf7abb15c2612ef49d1cab66b9f6c33/tumblr_nw44esjrRp1uft3xho4_r1_1280.png"/>
+</div>
+
+（3）标记完成，点击停止按钮，结束音频播放。对标记处命名。
+
+* **注意：一定要点击停止，而不是暂停，否则无法进行剪辑、储存。**
+
+（4）重复试听并将标记调整到正确位置。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/0f81a93e6f444fd1c150d7ff9ce0d08e/tumblr_nw44esjrRp1uft3xho5_r1_250.png"/>
+</div>
+
+（5）托拽鼠标左键，选取标记的范围，选取的时候标记点会出现黄色线条。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/8b8957f47800243c853f3ee6b5577ae9/tumblr_nw44esjrRp1uft3xho6_r1_540.png"/>
+</div>
 
 
 
