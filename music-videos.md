@@ -218,11 +218,62 @@ VLC 播放视频，从外部导入的字幕或者播放清单编码必须使用 
 
 #### 2.10 更改工具栏
 
-（1）**功能说明：**控制界面右键出现**选择菜单**
+（1）**功能说明：**控制界面右键出现**菜单**
 
-<div style="text-align:center">
-<img src="https://36.media.tumblr.com/ec1965845cd68e069a6f3afaf7a934f5/tumblr_nw3xi2dH661uft3xho4_1280.png"/>
+* **Lock the Toolbar（锁定工具栏）：锁定后不用担心移动工具**
+
+* **Playback Order（播放规则）**：**可以改为循环、随机等方式**
+
+* **Playlist Switcher（播放清单切换）**：**可以用下拉菜单切换播放清单**
+
+* **Visualization: Spectrum（声谱图）**：**预设勾选，如果不用，可以取消勾选**
+<div style="text-align: center">
+<img src="https://40.media.tumblr.com/ec1965845cd68e069a6f3afaf7a934f5/tumblr_nw3xi2dH661uft3xho4_540.png"/>
 </div>
+
+（2）**更改工具栏配置**
+
+把鼠标移动到工具栏红框中图案位置，发生改变；左键自由移动位置和长度。
+
+更改完再右键点击 **Lock the Toolbar **固定。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/02ccc2a5055cf591eecfcc04b2794a14/tumblr_nw3xi2dH661uft3xho5_1280.png"/>
+</div>
+
+（3）**播放规则说明**
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/f46f6dd266194cf7879a9f8bd24c25b1/tumblr_nw3xi2dH661uft3xho6_250.png"/>
+</div>
+
+* Default：一般播放，播放完曲目清单最后一首停止
+
+* Repeat（playlist）：重复播放曲目清单
+
+* Repeat（track）：重复播放同一首
+
+* Random：随机播放
+
+* Shuffle（tracks）：随机播放（根据曲目）
+
+* Shuffle（albums）：随机播放（根据专辑）
+
+* Shuffle（folders）：随机播放（根据文件夹）
+
+**提醒：**完成界面个性化设置后，将 **Preferences—Default User—Interface **中 **Enable layout editing mode** 取消勾选，这样不用担心再更改配置好的界面了。
+
+
+更多高级使用，详情**参考资料**。
+
+---
+
+**参考资料：**
+
+* **[VLC 使用教学](http://blog.xuite.net/yh96301/blog/47629906-%E5%85%8D%E8%B2%BB%E5%BD%B1%E9%9F%B3%E6%92%AD%E6%94%BE%E8%BB%9F%E9%AB%94VLC+media+player+2.2)**
+* **[Foobar2000使用教学系列篇](http://agawei.blogspot.com/search/label/foobar)**
+
+
+
+*总结完毕，持续更新.....*
 
 
 
