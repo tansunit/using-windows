@@ -101,4 +101,22 @@ LibreOffice 默认保存格式为 **.odt** ,如需要保存为 **.docx** ,**```C
 <img src="https://40.media.tumblr.com/b9f11cf79d8009819318217f4e880f14/tumblr_nw3e1xmeLv1uft3xho9_1280.png"/>
 </div>
 
+* 复制；
+
+* 高亮文本：使得选中的部分文字突出显眼；
+
+* 为文本加删除线；
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/982cbe451814a2d3b8ff4e460f1e029c/tumblr_nw3glkutPN1uft3xho1_1280.png"/>
+</div>
+
+* 添加附注至文本；
+<div style="text-align">
+<img src="https://41.media.tumblr.com/f2521124ce3183a65c533e71b82629fb/tumblr_nw3glkutPN1uft3xho2_1280.png"/>
+</div>
+
+--- 
+
+### 5. [CAJ Viewer](http://cajviewer.cnki.net/ )——中国知网专用阅读器
+**注**：**CAJ Viewer/转换为其他格式**是阅读知网文献的常见方法，有人不想用 CAJ Viewer ,于是写了从知网直接下载为 PDF 格式的[**浏览器脚本**](http://blog.yuelong.info/post/cnki-pdf-js.html)，安装就能用。
  
