@@ -23,7 +23,7 @@
    * [音频播放器](music-videos.md)
    * [媒体处理](geshi.md)
    * [电子书管理 Calibre](Calibre.md)
-   * 即时通讯
+   * [即时通讯](IM.md)
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
