@@ -100,3 +100,14 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 
 ### 4. 同步/分享自己的文件
 
+（1）点击添加文件按钮。管理界面如下图圈出的按钮
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/8a8cd9421cfccf31d29a2460703ef1c3/tumblr_nw46m7OmUE1uft3xho9_r1_400.png"/>
+</div>
+
+（2）选择【标准文件夹】，【继续】
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/de7bcd515b6e87f711d67eceac095106/tumblr_nw46m7OmUE1uft3xho10_r1_540.png"/>
+</div>
