@@ -26,6 +26,7 @@
    * [即时通讯](IM.md)
    * [（解）压缩](7-Zip.md)
    * [优化电脑](Ccleaner.md)
+   * 协同办公 Quip
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
