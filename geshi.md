@@ -247,5 +247,101 @@
 
 （1）打开需要处理的音频，点击**效果**菜单下拉，选择 **Vocal Remover**
 <div style="text-align:center">
+<img src="https://41.media.tumblr.com/8828fc01daaddb313cc0f291c9876edc/tumblr_nw4393T5CI1uft3xho3_r1_500.png"/>
+</div>
+
+（2）新对话框中使用默认值。**确定**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/4ed13ac09a0e532c4d90763b0b3ed25a/tumblr_nw44esjrRp1uft3xho7_r1_500.png"/>
+</div>
+
+（3）执行完毕，点击播放检查去除效果。
+
+## 
+
+#### 2.6 分割音频、截取部分音频
+
+（1）在 Audacity 中打开音频，直接在音频上截取一段音频。
+
+（2）**编辑--边界修剪--分离并新建**
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/0ab145bf2a3b382d271eeded1609c6d8/tumblr_nw44esjrRp1uft3xho8_r1_500.png"/>
+<img src="https://40.media.tumblr.com/4a0d659d0f26c99c7d969ac5df28c5fb/tumblr_nw44esjrRp1uft3xho9_r1_540.png"/>
+</div>
+
+（3）关闭原来的音轨，使用托拽工具移动音轨到开头位置，按导出以储存。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/019ab12429425d1a220268516950b330/tumblr_nw44esjrRp1uft3xho10_r1_1280.png"/>
+</div>
+
+## 
+
+#### 2.7 合并音频
+
+合并音频常用在剪接音乐。
+
+（1）打开 Audacity ,**文件--导入--音频，**选择音频导入
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/1b9735bac631ede3335826719b30523d/tumblr_nw45fth0kA1uft3xho3_540.png"/>
+</div>
+
+（2）**视图--垂直向适应**，完整显示音频
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/362bd843009a1fa9e2a6fc0c67c69824/tumblr_nw4393T5CI1uft3xho4_r1_400.png"/>
+</div>
+
+（3）点击**缩小**按钮，缩短时间轴。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/ca1f9e33e1e6da164a8f05cc5ff4d5e8/tumblr_nw45fth0kA1uft3xho1_r1_540.png"/>
+</div>
+
+（4）向右、向上托拽第二个音频，合并在第一个的后面。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/92ca18bc683eacc5c3dbc717cd0a5038/tumblr_nw45fth0kA1uft3xho2_r1_1280.png"/>
+<img src="https://40.media.tumblr.com/008b56440a855547068067f99382ab9f/tumblr_nw45fth0kA1uft3xho4_r1_1280.png"/>
+</div>
+
+（5）**放大时间轴**，直至两个音频之间的接合线放大
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/58898cb075b8a58c8555b6d602f77c93/tumblr_nw45fth0kA1uft3xho5_r1_1280.png"/>
+</div>
+
+（6）选择**选取工具**，选定接合前后静音的部分。
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/cfddb4fb30341484ed1f40eca7eab1c4/tumblr_nw45fth0kA1uft3xho6_r1_1280.png"/>
+</div>
+
+（7）**编辑--删除**
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/3b1b017798bc684b6ea916c45e15e5a5/tumblr_nw45fth0kA1uft3xho7_r1_400.png"/>
+</div>
+
+（8）导出
+
+
+***总结完毕，持续更新......更多高级操作，请阅读参考资料。***
+
+--- 
+
+**参考资料：**
+
+* **[Audacity 音效編輯軟體使用手冊](http://netlab.kh.edu.tw/document/Knoppix/audacity-%E9%82%B1%E5%BF%97%E5%BF%A0/Audacity.html)**
+
+* **[免費音樂編輯軟體 Audacity 2.1.1](http://blog.xuite.net/yh96301/blog/50904600-%E5%85%8D%E8%B2%BB%E9%9F%B3%E6%A8%82%E7%B7%A8%E8%BC%AF%E8%BB%9F%E9%AB%94Audacity+2.1.1)**
+
+* **[【教學】免費又專業的成音編輯－Audacity](http://chunyou0830.pixnet.net/blog/post/87476574-%E3%80%90%E6%95%99%E5%AD%B8%E3%80%91%E5%85%8D%E8%B2%BB%E5%8F%88%E5%B0%88%E6%A5%AD%E7%9A%84%E6%88%90%E9%9F%B3%E7%B7%A8%E8%BC%AF%EF%BC%8Daudacity%EF%BC%88%E4%B8%80)** 
+
+* **[Audacity 的使用教学](http://sokee.pixnet.net/blog/post/45390603)** 
+
+
 
 
