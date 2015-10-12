@@ -80,3 +80,19 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 <div style="text-align:center">
 <img src="https://40.media.tumblr.com/188271facf6331219dcd96d81df1f31a/tumblr_nw46m7OmUE1uft3xho7_r1_1280.png"/>
 </div>
+
+**注：在选择的同步目录里面会创建一个名为 .sync 的子目录。这个 .sync 目录会包含 BT Sync 的一些配置信息（可能该目录的密钥也在里面），你可别把它给删喽。**
+
+**（4）修改同步目录的选项参数**
+
+
+* 下图**红1**依据个人喜好设置。
+
+* **红2建议都勾选。**
+
+* **如果同步内容不在局域网上，不要勾选红3。**
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/e78b8ff78f69f97dbc1384c3895227db/tumblr_nw46m7OmUE1uft3xho8_r1_1280.png"/>
+</div>
+
