@@ -8,7 +8,7 @@
 
 ### 2. 学术类
 
-* **Google Scholar**： https://scholar.google.com （内链：http://guog.org）
+* **Google Scholar**： https://scholar.google.com （内链：http://guog.org ）
 
 * **微软学术搜索**：http://academic.research.microsoft.com
 
