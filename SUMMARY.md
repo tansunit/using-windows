@@ -21,7 +21,7 @@
    * [图片处理（在构建中）](pictures.md)
    * [文档编辑](Office.md)
    * [音频播放器](music-videos.md)
-   * 媒体处理
+   * [媒体处理](geshi.md)
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
