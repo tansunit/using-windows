@@ -97,4 +97,28 @@ Project Bartleby 开始于1991年，是哥伦比亚大学的免费电子图书�
 
 官方网站：http://etext.lib.virginia.edu/
 
+## 
+
+### 4.4 英文电子书
+
+**（1）Library Genesis**
+
+Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.
+
+总部设在俄罗斯，目前非常大的资源公开集合。主要包含了：上百万个非小说电子书文件；900，000个小说电子书文件；两千万篇科技、历史、艺术等论文；以及漫画、杂志、绘画；总量至少有30TB，可以说是数字世界的美国国会图书馆。
+
+官方网站：http://gen.lib.rus.ec
+
+大多数英文电子书在这里都可以找到。
+
+**（2）Internet Archive**
+
+1996年在旧金山成立，已存档接收 Alexa 互联网等捐赠的数据。现在主要包括了文本、音频、运动图像、软件、档案网页。
+
+
+官网：https://archive.org/ 
+
+随着越来越多资源的数字化，与上述类似的链接数不胜数，列举只是作个引子，资源检索不再是问题。前提是有检索的意识并有效使用搜索引擎。下一节将讲述搜索引擎的使用。
+
+*持续更新......*
 
