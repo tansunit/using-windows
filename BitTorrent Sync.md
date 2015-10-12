@@ -129,3 +129,19 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 <img src="https://41.media.tumblr.com/0f472e981360dd016c85f18daf0a82bd/tumblr_nw46wf4NFy1uft3xho2_1280.png"/>
 </div>
 
+* 1）上图【密钥】中一个是【只读】密钥，一个是【读写】密钥。
+
+**注：如果只允许别人同步查看你的分享文件，只需公开【只读密钥】！！！**
+辨识只读密钥、读写密钥：只读的以 B 开头，读写的以 A 开头。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/9602b6a469e099147f9d127f1f47ac63/tumblr_nw46wf4NFy1uft3xho3_540.png"/>
+</div>
+
+2）如需手机等编写设备扫二维码获得同步/接收，提供 **QR 代码**即可。（一般很少用）
+
+--- 
+
+参考资料：http://program-think.blogspot.com/2015/01/BitTorrent-Sync.html#comment-form
+
+*此篇总结完毕，持续更新......*
