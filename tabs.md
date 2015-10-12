@@ -24,3 +24,12 @@
 | 20 | **Winkey+PrtSc** | 当前全屏截图 | —— |
 | 21 | **Alt+PrtSc** | 当前应用截图 | —— |
 | 22 | **Winkey+R** | 打开「运行」 | —— |
+
+**备注：这些快捷键在浏览器、文档编辑中通用。**
+
+更多快捷键使用可查看以下两篇 WIKI ：
+
+* **[控制键](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E9%94%AE)**
+
+* **[Table of Keyboard Shortcut](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)**
+
