@@ -47,8 +47,26 @@
 （3）对文件**截取片段**转换，选中文件，点击**选项**
 
 根据视频播放时间**自定义截取片段**
+
 <div style="text-align:center">
 <img src="https://41.media.tumblr.com/363902d483c3e558ed10286e37c388fd/tumblr_nw3yt3FT0l1uft3xho5_1280.png"/>
 </div>
 
+（4）文件**输出配置**
+
+**说明**：配置值可以使用预设值，也可以部分修改（建立在对每个参数很熟悉的基础上）
+
+* **1）屏幕大小**：默认**缺省**，可以手动输入改为**100%；**
+
+* **2）每秒帧数**（FPS）：建议值**25/29.75/30；**
+
+* **3）比特率**：默认128，手动改为更高值也可以。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/83e5108cfa57cee7eec9ab3a7fecc6ca/tumblr_nw3yt3FT0l1uft3xho6_1280.png"/>
+</div>
+
+（5）**开始转换**：完成配置，**确定**后，点击**开始**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/8d9c87210fb1f1675896aef8fd6507db/tumblr_nw3yt3FT0l1uft3xho8_1280.png"/>
+</div>
 
