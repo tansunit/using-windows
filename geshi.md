@@ -70,3 +70,30 @@
 <img src="https://40.media.tumblr.com/8d9c87210fb1f1675896aef8fd6507db/tumblr_nw3yt3FT0l1uft3xho8_1280.png"/>
 </div>
 
+可以中途暂停，转换状态以百分比显示进度。
+
+转换完毕，可右键**打开输出文件夹**。
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/54da7da8a1d47762bf870cf7cebc27a1/tumblr_nw3yt3FT0l1uft3xho9_400.png"/>
+</div>
+
+*转换完毕。**音乐、图片格式转换如法炮制。***
+
+## 
+
+#### 1.3 图片格式转换、旋转、缩放、添加文字
+
+添加图片文件方法与**1.2 **类似，在**输出配置**中设置旋转、尺寸、文字、水印。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/bfb8a422d0925bdfa815b6fb19d8eeed/tumblr_nw3yt3FT0l1uft3xho10_1280.png"/>
+</div>
+
+## 
+
+#### 1.4 视频/音乐合并（以合并视频为例）
+
+如果有多个视频或音乐， 格式工厂可以合并成一个视频或一个音乐文件。
+
+（1）点击左侧面板的**高级**，选择**视频合并**。
+<div style="text-align:center">
+
