@@ -96,3 +96,7 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 <img src="https://41.media.tumblr.com/e78b8ff78f69f97dbc1384c3895227db/tumblr_nw46m7OmUE1uft3xho8_r1_1280.png"/>
 </div>
 
+---
+
+### 4. 同步/分享自己的文件
+
