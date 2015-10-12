@@ -118,7 +118,7 @@ VLC 播放视频，从外部导入的字幕或者播放清单编码必须使用 
 
 * 在新建的清单上左键双击，把想听的音频放进**曲目清单**
 <div style="text-align:center">
-<img src="https://40.media.tumblr.com/b7636ae8ec175511c72e37658d6e9c23/tumblr_nw3uisYZW01uft3xho10_400.png"/>
+<img src="https://40.media.tumblr.com/b7636ae8ec175511c72e37658d6e9c23/tumblr_nw3w4e4YBP1uft3xho1_r1_400.png"/>
 </div>
 
 ## 
@@ -133,6 +133,102 @@ VLC 播放视频，从外部导入的字幕或者播放清单编码必须使用 
 ## 
 
 #### 2.5 控制面板介绍
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/7538f015a111e2e96f6f39383de5a68c/tumblr_nw3w4e4YBP1uft3xho3_r1_540.png"/>
+</div>
+
+## 
+
+#### 2.6 界面调整方法
+
+（1）打开设置界面：从 **File** 进入** Preferences **（或者**```Ctrl+P```**快捷键打开）
+
+（2）展开 **Display** 项，再点击展开 **Default User Interface** 
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/bad1aecff57eb54a2a75cd71e2781d81/tumblr_nw3w4e4YBP1uft3xho5_1280.png"/>
+</div>
+
+（3）**Quick Setup**（快速设置）：这是首次启动 Foobar2000 时看到的设置，还可以再更改；
+
+（4）**Import Theme**（导入主题）：如果有设置好的界面文档可以从这里导入；
+
+（5）**Export Theme**（导出主题）：设置好界面后可以从这里导出，以后可以直接导入；
+
+（6）**Always show notification area**：会在右下角应用区显示 Foobar2000图标；
+
+（7）**Minize to notification area**：最小化至电脑右下角；
+
+（8）**Show balloon tooltip on song change**：更换曲目时会出现通知气球提示（需要勾选前面两项）；
+
+（9）**Use a custom icon from file**：使用自订的 icon。
+
+**以上设置根据个人习惯设置。**
+
+## 
+
+#### 2.7 自定义颜色、字形
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/3f116d80322ad0d00f578d4528f02a91/tumblr_nw3w4e4YBP1uft3xho6_r1_1280.png"/>
+</div>
+
+（1）切换到 **Colors and Fonts** 界面
+
+（2）**Text**：**设置文字配色**
+
+（3）**Background**：**设置北京配色**
+
+（4）**Selection**：**设置选取配色**
+
+（5）**Highlight：设置加亮配色**
+
+（6）**Fonts：设置字形**
+
+## 
+
+#### 2.8 界面配置更改
+
+点击 **Default User Interface **，勾选 **Enable layout editing mode**，按** Close，OK**
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/c529973fb2d1bbd97231343b518bb645/tumblr_nw3w4e4YBP1uft3xho7_r1_1280.png"/>
+</div>
+
+## 
+
+#### 2.9 替换声谱图界面
+
+（1）在**声谱图区域（右下角）右键**，选择 **Replace UI Element**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/0f18a95fca1127fe6c549e76ef5179e7/tumblr_nw3xi2dH661uft3xho1_1280.png"/>
+</div>
+
+（2）选择 **Media Library Search**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/d24977fa8cef97a12f8e42ebd5b7dbcc/tumblr_nw3xi2dH661uft3xho2_400.png"/>
+</div>
+
+（3）**OK**,看修改后效果
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/920c2f8c4879bdaeb4a3ce8e497b5e02/tumblr_nw3xi2dH661uft3xho3_1280.png"/>
+</div>
+
+## 
+
+#### 2.10 更改工具栏
+
+（1）**功能说明：**控制界面右键出现**选择菜单**
+
+<div style="text-align:center">
+<img src="https://36.media.tumblr.com/ec1965845cd68e069a6f3afaf7a934f5/tumblr_nw3xi2dH661uft3xho4_1280.png"/>
+</div>
+
+
+
+
+
+
 
 
 
