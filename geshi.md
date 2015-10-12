@@ -166,5 +166,46 @@
 <img src="https://40.media.tumblr.com/50974bcbbbabc93416f3000bfd0b3317/tumblr_nw4179E63l1uft3xho5_540.png"/>
 </div>
 
+（2）设置项目采样率（左下角）：预设值为44100，建议选择44100或48000
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/5903f72cd3102b8393fddf3366b130bd/tumblr_nw4179E63l1uft3xho6_250.png"/>
+</div>
 
+（3）连接麦克风并调整音量大小，点击**录制**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/9876d00626af41079325cd3edc720fe8/tumblr_nw4393T5CI1uft3xho1_500.png"/>
+</div>
+
+（4）录制完毕点击**停止**
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/f9368be1f606370eeeabfb688d99e3be/tumblr_nw4393T5CI1uft3xho2_r1_400.png"/>
+</div>
+
+## 
+
+#### 2.3 导出音频
+
+（1）**文件--导出音频/导出选择的音频**
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/97e9aef4395602c836576e1ffc3a1e37/tumblr_nw4393T5CI1uft3xho5_r2_400.png"/>
+</div>
+
+（2）选择保存位置，修改文件名，保存类型（**如果第一次导出保存为 MP3 格式，请按照 2.3（4）操作，再导出**）
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/bb6622722b690e8a90d40fae081a0ebe/tumblr_nw4393T5CI1uft3xho6_r1_1280.png"/>
+</div>
+
+（3）导出的音频信息
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/61aa6dd2e290a4fec97c108d163fa6d5/tumblr_nw4393T5CI1uft3xho7_r1_500.png"/>
+</div>
+
+（4）如果保存类型选择了 MP3 ，需要事先安装 LAME 插件才可以正常保存。否则会提醒错误。
+
+* **注**：在定位 LAME 对话框中点击**下载**，在新网页下载 LAME  (http://lame.buanzo.org/#lamewindl)，安装。
+再进行导出操作。
+
+<div style="text-align:center">
+<div src="https://40.media.tumblr.com/8130cac4471320a7cdff6493d1618ef0/tumblr_nw44esjrRp1uft3xho2_250.png"/>
+</div>
 
