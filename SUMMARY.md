@@ -28,6 +28,7 @@
    * [优化电脑](Ccleaner.md)
    * 协同办公 Quip
    * 协同办公 Evernote
+   * 文件同步与共享
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
