@@ -237,5 +237,15 @@
 <img src="https://40.media.tumblr.com/8b8957f47800243c853f3ee6b5577ae9/tumblr_nw44esjrRp1uft3xho6_r1_540.png"/>
 </div>
 
+（6）导出选取的音频
+
+## 
+
+#### 2.5 去除人声
+
+有些音频需要去除其中的人声，保留其他声音。
+
+（1）打开需要处理的音频，点击**效果**菜单下拉，选择 **Vocal Remover**
+<div style="text-align:center">
 
 
