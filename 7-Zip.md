@@ -77,6 +77,7 @@
 <img src="https://40.media.tumblr.com/ce3704a93e849dcb86875f4b98c3fd37/tumblr_nw5a8bpscd1uft3xho4_1280.png"/>
 </div>
 
+## 
 
 **2.2.2同时压缩多个文件（夹）**
 压缩除了2.2.1 方法，还可以直接选择部分多个文件夹/文件，右键从 7-Zip 压缩。
@@ -84,9 +85,102 @@
 <img src="https://40.media.tumblr.com/e0e20ff52e3b87a5c72313d9caf0b049/tumblr_nw5a8bpscd1uft3xho5_1280.png"/>
 </div>
 
+## 
+
 **2.2.3 先设置再压缩**
 
 有时需要更改压缩文件存放位置或者压缩方式，以及在有必要时加密压缩。这时可以右键从 7-Zip 选择 **Add to archive **先设置再压缩。
 <div style="text-align:center">
 <img src="https://40.media.tumblr.com/1d5cba57f99253024f03770c986c4365/tumblr_nw5a8bpscd1uft3xho6_1280.png"/>
+<img src="https://40.media.tumblr.com/2c30ef9f3d2c5e34eff60cefc89c3ce3/tumblr_nw5a8bpscd1uft3xho7_1280.png"/>
 </div>
+
+**选项说明**：
+
+* **压缩包（A）**：后面点击选择压缩包保存位置；
+
+* **压缩格式**：下拉可以选择 7z/tar/wim/zip 格式，一般选择常用的 7z/zip 就行。
+
+ **注**：如果选择 **7z** 格式，建议顺便勾选**选项--创建自释放程序**，这样操作叫作「**自解压缩**」， 7-Zip 除了将要压缩的资料打包压缩，还会将 7-Zip 的解压缩应用一起打包进去，收到该压缩包的人不再需要安装任何解压缩软件就能直接解压缩出资料。
+
+* **压缩等级、压缩方法**：均默认值。
+
+ **注：如果想要压缩包更小，压缩格式选择 7z，压缩等级下拉选择极限压缩，压缩方法选择 LZMA2。**
+
+* **分卷大小，字节**：用于**分割压缩**，下拉选择或者手动输入。
+
+ （**分割压缩**指在要压缩的资料很大时，压缩软件不会把所有资料压缩成一个压缩包，而是按照设置的压缩包大小分割为多个，直到所有资料被压缩处理完毕。）
+
+ ** 分割压缩**常用在 E-mail 对附件文件大小有限制，或者资料需要放进多个移动设备（U 盘/光盘等）。
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/3b8c2c7ec00af6869337ac810138e9fd/tumblr_nw5a8bpscd1uft3xho9_400.png"/>
+</div>
+
+* **加密**
+
+重要资料可以加密压缩存放/传输。在右侧加密选项输入加密密码。
+
+加密文件名：勾选后，压缩包双击打开时无法浏览内部文件，相当于把文件名也加密了。
+
+## 
+
+#### 2.3 解压缩
+
+**2.3.1 直接解压缩**
+
+双击压缩包，再选择里面的文件（夹），从压缩包托拽出来。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/217ed0f4d4635cf4833c6b2ac59f139d/tumblr_nw5og2Hi7n1uft3xho1_500.png"/>
+</div>
+
+## 
+
+**2.3.2 间接解压缩**
+
+右键压缩包。
+
+**Extract files**：选择解压缩保存位置、文件名
+
+**Extract Here**：直接将文件解压缩在当前位置，每个文件显现
+
+**Add to ......**：还可以进一步压缩
+
+**如果压缩包是加密的，解压缩需要正确输入密码才会成功解压缩。**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/d499d1b8769134599a01ba87ba7cd953/tumblr_nw5og2Hi7n1uft3xho2_500.png"/>
+<img src="https://40.media.tumblr.com/d70bbcb07caa5ce019922b83752e1d9c/tumblr_nw5og2Hi7n1uft3xho3_500.png"/>
+</div>
+
+
+## 
+
+**2.3.3 分割压缩包解压缩**
+
+使用分割压缩方式压缩出来的文件副名称为**.001**、**.002**......，要将这些压缩包解压缩时，**一定要从.001压缩包开始，不可以从中间的编码开始！**此外，**当时压缩得到的压缩包在解压缩时都要在一起，一个都不能少！**
+
+**由于.001副文件名并没有与任何应用软件关联，所以没有办法双击打开，只有通过右键选择 7-Zip 解压缩。**
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/66d455fa60cd0e10dd5e7f6f2f153162/tumblr_nw5og2Hi7n1uft3xho4_400.png"/>
+</div>
+
+--- 
+
+### 3. WinRAR 与 7-Zip 比较
+
+压缩纯文字文件：7-Zip 比 WinRAR 好，压缩包小，大约是 WinRAR 的五分之一。
+压缩应用软件、图片：7-Zip 比 WinRAR 好，压缩包大约是 WinRAR 的十分之一。
+
+--- 
+
+**参考资料：**
+
+* **[7-Zip 操作教学](http://changyang319.pixnet.net/blog/post/27861881)**
+
+* **[7-Zip 压缩与解压缩](http://blog.xuite.net/yh96301/blog/26572744)**
+
+* **[7-Zip 免费的超高压7Z 压缩软件](http://it-easy.tw/7-zip/)**
+
+* **[WinRAR 5.0 與 7-zip 9.20 壓縮效率與使用評估](http://shaurong.blogspot.com/2013/09/winrar-50-7-zip-920.html)**
+
+
+*总结完毕，持续更新......*
