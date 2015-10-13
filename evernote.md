@@ -123,4 +123,5 @@ Evernote 中只要点击工具栏的**新群聊**，输入对方电邮就可以�
 
 [与他人共用 Evernote,协同工作技巧16招](http://www.techbang.com/posts/22754-16-tips-for-evernote-shared-office-skills-pchmoe-230-enterprises-of-science-and-technology)
 
+[打開大家的 Evernote 筆記本](https://www.evernote.com/pub/esorhjy/2015_evernote_esor)（台湾 Evernote 大使 Esor）
 
