@@ -110,4 +110,8 @@ Ccleaner 还可以帮助卸载、删除安装的程序。
 </div>
 
 ---
+
+**参考资料**：[
+CCleaner - 安全文件删除与工作进程擦除](https://info.securityinabox.org/zh/ccleaner)
+
 *Ccleaner 使用完毕，持续更新......*
