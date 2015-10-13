@@ -62,3 +62,31 @@
 <img src="https://41.media.tumblr.com/61984f5588738bc392eb5a0311cd1707/tumblr_nw5a8bpscd1uft3xho8_400.png"/>
 <img src="https://41.media.tumblr.com/0c23afbb96a0cf1d8196320e6f601307/tumblr_nw5a8bpscd1uft3xho10_400.png"/>
 </div>
+
+## 
+
+#### 2.2 压缩
+
+由于 Windows 内建有解压缩** .zip** 的软件，即使没有安装 Winrar/7Zip 软件也可以打开，.7z 却不行。所以，一般压缩文件是自己使用，压缩成 .7z/.zip ，如果要给别人使用，压缩成 .zip 比较好。
+
+
+**2.2.1 直接压缩**
+
+在压缩文件之前，通常会将需要打包压缩的文件（夹）放在同一个文件夹中，然后右键选择 7-Zip 里的「Add to xxx.7z」或者「Add to xxx.zip」。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/ce3704a93e849dcb86875f4b98c3fd37/tumblr_nw5a8bpscd1uft3xho4_1280.png"/>
+</div>
+
+
+**2.2.2同时压缩多个文件（夹）**
+压缩除了2.2.1 方法，还可以直接选择部分多个文件夹/文件，右键从 7-Zip 压缩。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/e0e20ff52e3b87a5c72313d9caf0b049/tumblr_nw5a8bpscd1uft3xho5_1280.png"/>
+</div>
+
+**2.2.3 先设置再压缩**
+
+有时需要更改压缩文件存放位置或者压缩方式，以及在有必要时加密压缩。这时可以右键从 7-Zip 选择 **Add to archive **先设置再压缩。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/1d5cba57f99253024f03770c986c4365/tumblr_nw5a8bpscd1uft3xho6_1280.png"/>
+</div>
