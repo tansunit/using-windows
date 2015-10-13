@@ -142,6 +142,6 @@ BT Sync 默认会使用当前系统的主机名，作为它的节点名（也叫
 
 --- 
 
-参考资料：http://program-think.blogspot.com/2015/01/BitTorrent-Sync.html#comment-form
+参考资料：[扫盲 BT Sync——不仅是同步利器，而且是【分布式】网盘](http://program-think.blogspot.com/2015/01/BitTorrent-Sync.html#comment-form)
 
 *此篇总结完毕，持续更新......*
