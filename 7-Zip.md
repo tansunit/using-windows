@@ -169,6 +169,7 @@
 ### 3. WinRAR 与 7-Zip 比较
 
 压缩纯文字文件：7-Zip 比 WinRAR 好，压缩包小，大约是 WinRAR 的五分之一。
+
 压缩应用软件、图片：7-Zip 比 WinRAR 好，压缩包大约是 WinRAR 的十分之一。
 
 --- 
