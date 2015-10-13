@@ -27,3 +27,38 @@
 <img src="https://41.media.tumblr.com/fe7ae4f799f6b7ddd6437adcb997bee0/tumblr_nw5a00FnH91uft3xho3_540.png"/>
 <img src="https://40.media.tumblr.com/485a8cca3fa70e44b96ca5108fa996a6/tumblr_nw5a00FnH91uft3xho4_540.png"/>
 </div>
+
+--- 
+
+### 2. [7-Zip](http://www.7-zip.org)（最新稳定版：9.20；最新版：15.08 beta）
+
+7-Zip 是一个免费、开放源代码、便捷的压缩、解压缩软件。其安装程序小（1M 左右）、操作简单、速度快。
+
+#### 2.1 文件关联
+
+（1）安装完成后，右键 **7-Zip File Manager **，选择**以管理员身份运行**。若出现对话框提醒，**是**即可。
+
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/a2b2c406889b3e2436f887bf7529bf60/tumblr_nw5a8bpscd1uft3xho1_400.png"/>
+</div>
+
+（2）关联文件：点击**工具---选项，**进入设置界面。
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/52d8d0050234393c5b9f9aa288fdc9d1/tumblr_nw5a8bpscd1uft3xho2_500.png"/>
+</div>
+
+（3）在**系统**一栏勾选关联项。
+可以**全选**或只选择常用的 **7z/iso/rar/tar/zip**
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/234a27d22ad294c5fba13f5879f4fe99/tumblr_nw5a8bpscd1uft3xho3_400.png"/>
+</div>
+
+（4）**文件右键菜单7-Zip 选项设置**
+
+默认情况下，右键菜单7-Zip 选项有很多，但有些不会经常用到（比如我不会经常用压缩并邮寄一项），可以在**工具—选项—7-Zip** 取消。
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/61984f5588738bc392eb5a0311cd1707/tumblr_nw5a8bpscd1uft3xho8_400.png"/>
+<img src="https://41.media.tumblr.com/0c23afbb96a0cf1d8196320e6f601307/tumblr_nw5a8bpscd1uft3xho10_400.png"/>
+</div>
