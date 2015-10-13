@@ -22,4 +22,8 @@
 这里选用的是自解压的安装方式（先有鸡还是先有蛋的问题），如图1右击选取「打开」，即进入安装选项如图3（这里由于某种原因，默认安装路径不是C盘），按默认路径即可（当然也可以选择其他），安装完成后将弹出图4所示对话框，建议勾选「外壳整合设置」中的「层叠」和「整合」选项，「确认」在文件上测试右键即可弹出图2所示 WinRAR.当然这里选择的测试平台是 Win XP 系统，但在其他 windows 平台上的操作情况类似，恕不一一演示。
 
 <div style="text-align:center">
-<img src="
+<img src="https://40.media.tumblr.com/50827aa0f02714ff9fef4d0409bf5735/tumblr_nw5a00FnH91uft3xho1_r1_400.png"/>
+<img src="https://41.media.tumblr.com/3d2e554f3b45a954be0cd715703ca161/tumblr_nw5a00FnH91uft3xho2_500.png"/>
+<img src="https://41.media.tumblr.com/fe7ae4f799f6b7ddd6437adcb997bee0/tumblr_nw5a00FnH91uft3xho3_540.png"/>
+<img src="https://40.media.tumblr.com/485a8cca3fa70e44b96ca5108fa996a6/tumblr_nw5a00FnH91uft3xho4_540.png"/>
+</div>
