@@ -83,7 +83,8 @@
 <img src="https://40.media.tumblr.com/dffb4bacef43c49463e05bf147843310/tumblr_nw4zz3m2Vl1uft3xho10_500.png"/>
 </div>
 
-（5）浏览格式转换结束的书
+
+ （5）浏览格式转换结束的书
 <div style="text-align:center">
 <img src="https://40.media.tumblr.com/f0a0862e65ce47f5f99ee09c022096e8/tumblr_nw525hiyZQ1uft3xho4_r1_1280.png"/>
 <img src="https://40.media.tumblr.com/2465181bb61226e581a13f56f882835e/tumblr_nw525hiyZQ1uft3xho8_r1_1280.png"/>
@@ -91,6 +92,42 @@
 
 
 （6）将转换好的 mobi 格式电子书推送到 kindle 设备
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/8d8e10ce967854a2cf167def6ff64330/tumblr_nw525hiyZQ1uft3xho2_r1_1280.png"/>
+</div>
+
+（7）删除已存在的书（指定格式）：如果不想把已推送到其他设备的书保存在电脑上可删除。
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/748d71338b38605a598f72414c6610c7/tumblr_nw525hiyZQ1uft3xho5_r1_1280.png"/>
+</div>
+
+--- 
+
+### 3. 其他功能
+
+（1）**编辑书籍**：只能编辑 EPUB 格式书籍
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/72ce33cfca24e22508e7ca30086e88f1/tumblr_nw525hiyZQ1uft3xho6_r1_1280.png"/>
+</div>
+
+（2）**获取书籍**：搜索外文书比较好，搜索资源表中无中文书资源提供方。搜索到的书籍，只有显示绿锁的可以下载
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/32263d9c948f6e19005303c341f894e5/tumblr_nw525hiyZQ1uft3xho8_r2_1280.png"/>
+<img src="https://41.media.tumblr.com/7741507a0bc6f25286c57ca6f1c3fc75/tumblr_nw525hiyZQ1uft3xho9_r1_1280.png"/>
+</div>
+
+---
+
+**参考资料：**
+
+**[李凡希博客](http://www.freemindworld.com/blog/2010/101022_calibre_tips_and_faq.shtml)**
+
+**[Calibre 電子書轉檔、編輯、閱讀一應俱全，還可將電子書傳送到Kindle](http://tfeng.org/?p=5979)**
+
+**[calibre User Manual](http://manual.calibre-ebook.com/)**
+
+*总结完毕，持续更新......*
+
 
 
 
