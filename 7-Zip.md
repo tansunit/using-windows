@@ -80,6 +80,7 @@
 ## 
 
 **2.2.2同时压缩多个文件（夹）**
+
 压缩除了2.2.1 方法，还可以直接选择部分多个文件夹/文件，右键从 7-Zip 压缩。
 <div style="text-align:center">
 <img src="https://40.media.tumblr.com/e0e20ff52e3b87a5c72313d9caf0b049/tumblr_nw5a8bpscd1uft3xho5_1280.png"/>
