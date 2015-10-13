@@ -25,7 +25,7 @@
    * [电子书管理 Calibre](Calibre.md)
    * [即时通讯](IM.md)
    * [（解）压缩](7-Zip.md)
-   * [优化电脑](Ccleaner.md)
+   * [优化电脑 Ccleaner](Ccleaner.md)
    * [协同办公 Quip](quip.md)
    * [协同办公 Evernote](evernote.md)
    * [文件同步与共享](BitTorrent Sync.md)
