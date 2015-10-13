@@ -95,3 +95,19 @@ Ccleaner 还可以帮助卸载、删除安装的程序。
 （1）**工具—卸载**
 
 （2）**运行卸载程序**后，有时还需要**删除条目。**
+
+<div style="text-align:center">
+<img src="https://40.media.tumblr.com/c42e706aa033bc551d0871514f56b13f/tumblr_nw58chEjYD1uft3xho2_1280.png"/>
+</div>
+
+## 
+
+**提醒**：一般，Ccleaner 在关闭其他程序（浏览器、播放器、文档编辑器等）之后，可以手动扫描分析，清除无用内容。
+
+在电脑正常使用中 Ccleaner 也会自动扫描清除。
+<div style="text-align:center">
+<img src="https://41.media.tumblr.com/8eb54ace5e2af31f3f98b0b48f1a82f4/tumblr_nw58chEjYD1uft3xho1_r2_400.png"/>
+</div>
+
+---
+*Ccleaner 使用完毕，持续更新......*
