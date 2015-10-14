@@ -28,7 +28,20 @@ Snagit 最新版为12.4.1，推荐 10.0.2版本，旧版本请戳
 
 截图进一步处理，裁剪、分割、标注、涂鸦等都可以做到。（汇总这些内容时一些图示就是用 Snagit 截图得到）
 
+## 
 
+#### 2.1 界面介绍
+
+
+
+## 
+
+#### 2.2 截图功能
+
+
+## 
+
+#### 2.3 图片编辑
 
 
 
@@ -37,6 +50,8 @@ Snagit 最新版为12.4.1，推荐 10.0.2版本，旧版本请戳
 
 **参考资料：**
 
-[分享 Snagit 10 精細截圖技巧 ＋ 擷取到空白畫面的問題解決](http://blog.miniasp.com/post/2010/10/23/Snagit-10-All-in-One-Capture-Tips-and-a-Alt-Print-Screen-profile.aspx)
+* [分享 Snagit 10 精細截圖技巧 ＋ 擷取到空白畫面的問題解決](http://blog.miniasp.com/post/2010/10/23/Snagit-10-All-in-One-Capture-Tips-and-a-Alt-Print-Screen-profile.aspx)
+
+* [Basics of Snagit for New Users: Snagit 10](https://www.youtube.com/watch?v=k_I85ziKcs8)
 
 
