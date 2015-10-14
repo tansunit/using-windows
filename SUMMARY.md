@@ -18,7 +18,7 @@
    * [Firefox 浏览器](firefox.md)
    * [Chrome 浏览器](chrome.md)
    * [输入法](Input.md)
-   * [图片处理（在构建中）](pictures.md)
+   * [图片处理](pictures.md)
    * [文档编辑](Office.md)
    * [音频播放器](music-videos.md)
    * [媒体处理](geshi.md)
