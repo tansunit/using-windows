@@ -29,7 +29,7 @@
    * [协同办公 Quip](quip.md)
    * [协同办公 Evernote](evernote.md)
    * [文件同步与共享](BitTorrent-Sync.md)
-   * [下载工具](uTorrent&Thunder.md)
+   * [下载工具](uTorrent-Thunder.md)
 * [信息检索](search-information.md)
    * [搜索引擎](search-engine.md)
    * [有用网站](Webs.md)
