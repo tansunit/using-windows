@@ -16,9 +16,8 @@
 
 ### 2. [Snagit](https://www.techsmith.com/snagit.html)
 
-**Old Versions**：https://www.techsmith.com/download/oldversions.asp
-
-Snagit 最新版为12.4.1，推荐 10.0.2版本。
+Snagit 最新版为12.4.1，推荐 10.0.2版本，旧版本请戳
+**[Old Versions](https://www.techsmith.com/download/oldversions.asp)**下载。
 
 编者最初使用 Snagit 因为它可以滚动截图。除此之外，
 
@@ -28,4 +27,16 @@ Snagit 最新版为12.4.1，推荐 10.0.2版本。
 *  捕捉范围极其灵活：可以选择整个屏幕，某个静止或活动窗口，也可以自己随意选择捕捉内容。
 
 截图进一步处理，裁剪、分割、标注、涂鸦等都可以做到。（汇总这些内容时一些图示就是用 Snagit 截图得到）
+
+
+
+
+
+
+--- 
+
+**参考资料：**
+
+[分享 Snagit 10 精細截圖技巧 ＋ 擷取到空白畫面的問題解決](http://blog.miniasp.com/post/2010/10/23/Snagit-10-All-in-One-Capture-Tips-and-a-Alt-Print-Screen-profile.aspx)
+
 
